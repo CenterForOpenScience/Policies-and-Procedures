@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ##Policies and Procedure Manual
 
 ##Introduction
