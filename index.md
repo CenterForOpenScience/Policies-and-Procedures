@@ -181,9 +181,7 @@ _Sensitive_: All grievances will be dealt with sensitively and professionally by
 
 ##Employee Grievance Procedure
 
-**Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by direct approach to the 
-
-employee or employees involved. 
+**Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by direct approach to the employee or employees involved. 
 
 **Formal stage:** If the matter remains unresolved, employees are to report the incident to management immediately. The COS management will resolve the issue and decide if a formal meeting between the parties is necessary. This meeting should be held within 10 working days of the grievance.  If, after any action to resolve the grievance taken by the directorship, the employee is still dissatisfied, they may file an appeal. 
 
