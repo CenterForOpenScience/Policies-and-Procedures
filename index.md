@@ -62,7 +62,7 @@ All employees are assigned to an employee status category determined at the time
 
 **Seasonal:** Employees who are employed by the organization to work part- or full-time are eligible for certain benefits including occasionally catered meals and the stocked kitchen. 
 
-**Independent Contractors:* *For all independent contractors, there shall be a contract detailing the responsibilities, deliverables, time frame, fee and method of payment. Both the independent contractor and an authorized representative of the COS shall sign the contract and follow policies and guidelines prescribed by law or the written contract. All independent contractors will submit a W-9 form for tax purposes. 
+**Independent Contractors:** For all independent contractors, there shall be a contract detailing the responsibilities, deliverables, time frame, fee and method of payment. Both the independent contractor and an authorized representative of the COS shall sign the contract and follow policies and guidelines prescribed by law or the written contract. All independent contractors will submit a W-9 form for tax purposes. 
 
 ##Employment Classification
 
@@ -112,7 +112,7 @@ Each new employee will be given a general orientation by the Office Manager. Thi
 
 The aim of the COS performance appraisal process is to provide staff with guidance to help them to achieve their job and career goals, to recognize their achievements and to facilitate achievement of COS’s strategic and business goals. You will have the opportunity to participate in planning your work and setting your goals in conjunction with the management team on an ongoing basis and formally during your 6 month and annual appraisal meeting. The performance appraisal process is an opportunity for open, honest communication and feedback about your work and your future at the COS.  
 
-[Note: The formal Performance Appraisal Process is still in development]  
+_Note: The formal Performance Appraisal Process is still in development_
 
 A special evaluation may be conducted at the request of the employee or the management team.  Special evaluations are normally conducted as a consequence of a particular incident, either positive or negative.
 
