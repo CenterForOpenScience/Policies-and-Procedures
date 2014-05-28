@@ -6,17 +6,18 @@ layout: default
 
 ##Introduction
 
-This manual sets forth the Center for Open Science’s policies and procedures for daily operations. The Center for Open Science (COS) complies with the United States Federal and State of Virginia employment laws and regulations. This manual is subject to change to maintain compliance with these laws and regulations. This manual will be reviewed and updated periodically as a means of continuous improvement to the COS’s standard practices and operations. The COS maintains full discretion to add to, modify, or delete provisions of this manual at any time. The COS staff are advised to retain a bookmark to the manual to check for revisions and to stay up-to-date on COS policies.  
+This manual sets forth the Center for Open Science’s policies and procedures for daily operations. The Center for Open Science (COS) complies with the United States Federal and State of Virginia employment laws and regulations. This manual is subject to change to maintain compliance with these laws and regulations. This manual will be reviewed and updated periodically as a means of continuous improvement to the COS’s standard practices and operations. COS maintains full discretion to add to, modify, or delete provisions of this manual at any time. COS staff are advised to retain a bookmark to the manual to check for revisions and to stay up-to-date on COS policies.  
 
-Information contact: Denise Holman, [denise@centerforopenscience.org](mailto:denise@centerforopenscience.org)
-r
+
 ##COS Office Environment
 
-The COS operates on the principle of openness. COS provides a 24/7 accessible working environment to staff. The COS is a highly collaborative environment and there is no assigned seating. Everyone operates out of the main "bullpen" area.  While there is an emphasis on collaboration, this model also increases the need to be sensitive to noise so that all staff can be productive in the space.  Staff are encouraged to retreat to a private office to hold meetings or to have phone and video calls.
+COS operates on the principle of openness. It provides a 24/7 accessible working environment to staff. COS is a highly collaborative environment and there is no assigned seating. Everyone operates out of the main bullpen area. Each workstation in our offices will have everything you will need to get started excluding a laptop (do not remove keyboards, mice, or dongles from workstations when moving seats). 
 
-The COS will host a variety of community events during normal business hours, in the evenings, and on weekends. During these events, a host member of the COS staff will be present. The host staff member is responsible for ensuring responsible use of the space, properly disposing of any trash following the event, and properly closing up. 
+While there is an emphasis on collaboration, this model also increases the need to be sensitive to noise so that all staff can be productive in the space.  Staff are encouraged to retreat to a private office to hold meetings or to have phone and video calls.
 
-The COS kitchen is a shared space for COS staff and visitors. Each Friday COS staff clean out of the fridge by either taking home their perishable items or throwing them away. The cleanliness of the COS kitchen and other space is the responsibility of everyone who uses it. 
+COS will host a variety of community events during normal business hours, in the evenings, and on weekends. During these events, one COS staff member must be present at minimum. This staff member is responsible for ensuring responsible use of the space, properly disposing of any trash following the event, and properly closing up. 
+
+The COS kitchen is a shared space for COS staff and visitors. Everyone is responsible for its cleanliness. Each Friday COS staff clean out of the fridge by either taking home their perishable items or throwing them away. 
 
 ##Hiring Practices
 
@@ -35,6 +36,17 @@ This policy is consistent with the requirements and objectives set forth by the 
 The COS employs persons qualified for each position by virtue of job-related standards of education, training, experience, or personal qualifications. Additionally, the COS adheres to Section 504 of the Rehabilitation Act of 1973 regarding discrimination of persons with disabilities.
 
 The COS is committed to creating and maintaining a work climate that is free from discrimination and harassment. 
+
+
+##Legal Interviewing Practices
+
+Employee application forms, interviews, and on-site trials are early measures often taken to decide whether an applicant is a suitable fit for a company. At COS, we often have candidates coming in for working interviews and attending team lunches. Certain questions asked during any stage of the interview process which are unrelated to the job can lead to the exclusion of otherwise qualified candidates simply based on age, family situation, national origin, religion, race, gender, health, etc. Fair hiring laws exist to give every candidate a fair chance in the interview and selection process. COS staff are expected to review these guidelines and engage with candidates appropriately. 
+Court rulings and Equal Employment Opportunity Commission ("EEOC") guidelines prohibit the use of all pre-employment inquiries that unjustly screen out certain individuals and are not valid predictors of successful job performance or which cannot be justified by "business necessity." See Griggs v. Duke Power Co., 401 U.S. 424 (1971). 
+
+##Visiting Staff 
+
+COS has many collaborators and contributors from around the world and when they visit the Charlottesville area, COS offers their office to them as a space to work. During this time, these individuals are to be treated as visiting staff members. While at COS offices it is required for all visiting staff to abide by the policies set forth in this manual. Failure to abide by such policies will result in suspension from COS offices. 
+
 
 ##Americans with Disabilities Act Considerations
 
@@ -76,7 +88,7 @@ All employees are assigned to one of the following classifications of employment
 
 ##Paid Time Off (PTO)
 
-At the beginning of each year, COS employees receive credit for fifteen (15) days of "Paid Time Off" (PTO).  Upon termination all unused PTO will be forfeited.  PTO is not accrued and has no cash value.  Staff must confirm PTO with a supervisor and indicate the time off on the COS Google shared calendar.  Anyone who cannot work due to an illness or emergency should notify supervisors, the office manager, or the team by emailing the staff mailing list.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.  
+At the beginning of each year, COS employees receive fifteen (15) days of “Paid Time Off” (PTO).  Upon termination all unused PTO will be forfeited.  PTO is not accrued and has no cash value.  Staff must confirm PTO with a supervisor and indicate the time off on the COS Google shared calendar.  Anyone who cannot work due to an illness or emergency should notify supervisors, the Office Manager, or the team by emailing cos-staff@lists.centerforopenscience.org.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.  
 
 ##New Employee Orientation
 
@@ -119,38 +131,61 @@ A special evaluation may be conducted at the request of the employee or the mana
 Salaries will be reviewed annually and adjusted in line with performance. The salary review process will take into account overall performance and the COS’s budget status and projections. Evaluations will not necessarily lead to a change in compensation.
 
 ##Pay Schedule (15th and 30/31)
-
 Pay dates for COS staff are on the 15th and the 30/31 of each month (or last business day preceding the 15th or the last day of the month).  When a pay day falls on a holiday, the pay date will be on the last business day prior to the holiday. The COS is required by law to make certain deductions for federal and state withholding taxes and social security. COS employees may voluntarily have deductions made from their paychecks on a pre-tax basis to pay for any dependent(s) health and dental insurance coverage. 
-
+ 
 If a paycheck is lost or stolen, it is the individual’s responsibility to report it immediately to the Office Manager, and submit an email statement certifying that the pay check was lost or stolen.  Following that, a replacement check will be issued. 
-
+ 
 Notify the Office Manager of changes to direct deposit by completing and returning a new Direct Deposit slip.
 
 ##Reimbursements
 
-COS staff members may pay for pre-authorized expenses while traveling. Pre-authorized expenses include meals, lodging, telephone, internet charges, and mileage. COS will reimburse staff for mileage traveled for COS related activities. COS will reimburse mileage based upon the standard [IRS Mileage Rates](http://www.irs.gov/uac/2013-Standard-Mileage-Rates-Up-1-Cent-per-Mile-for-Business,-Medical-and-Moving). Parking violations, towing, and traffic fines will not be reimbursed. 
+COS staff members may pay for pre-authorized expenses while traveling. Pre-authorized expenses include meals, lodging, telephone, internet charges, and mileage. COS will reimburse staff for mileage traveled in their personal vehicle for COS related activities. COS will reimburse mileage based upon the standard IRS Mileage Rates. Parking violations, towing, and traffic fines will not be reimbursed. 
 
-To receive reimbursement, staff are to submit all receipts and an itemized reimbursement request form to the Office Manager within thirty (30) days of the reimbursable expense(s). Late submissions will not be eligible for reimbursement.  
+To receive reimbursement, staff are to submit all receipts and an itemized reimbursement request form to the Office Manager within thirty (30) days of the reimbursable expense(s). All reimbursements are subject to management’s final approval. Late submissions will not be eligible for reimbursement.  
 
-Although COS encourages all staff to use Google Voice for all COS related phone calls, COS recognizes that job responsibilities may include use of personal cell phones. Employees who use their personal cell phones for COS related activities are to notify the Office Manager and to supply proof of usage.  COS will reimburse staff based upon the following cell phone usage rates: Occasional Usage - $15/month or Regular Usage - $50/month. Employees can request an upgrade with the Office Manager should their use exceed the occasional or moderate usage rates. 
-
-Reimbursement payments will be made on the 10th and 20th of every month. 
+Although COS encourages all staff to use Google Voice for all COS related phone calls, COS recognizes job responsibilities may include use of personal cell phones. Employees who use their personal cell phones for COS related activities are to notify the Office Manager and to supply proof of usage.  COS will reimburse staff based upon the following cell phone usage rates: Occasional Usage - $15/month or Regular Usage - $50/month. Employees can request an upgrade with the Office Manager should their use exceed the occasional or moderate usage rates. 
 
 ##Use of Email &amp; Personal Computer Equipment
 
 All staff will receive a COS email address.  Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property.  If your COS technology needs are not being met, please discuss them with the Office Manager.  
 
+##Data Privacy
+
+COS staff will be granted access to private Open Science Framework (OSF) user data. To ensure the privacy of user data, it is understood that; 
+
+1. Private user data is sensitive and confidential.  It is our responsibility to treat it as such.
+2. Private user data should never be released to any person without explicit permission from COS management.
+3. Private user data should be handled responsibly, only being stored on COS hardware or hardware leased by COS (i.e. cloud platforms).
+4. COS hardware storing private user data should be handled responsibly in regards to both physical and computer security (i.e., secure login passwords, machine not left unattended).  Ensure that the private user data would remain secure if the computer were to be lost or stolen.
+5. Data should be stored on encrypted devices. On Apple computers, FileVault disk encryption is the easiest solution. Otherwise, Apple encrypted disk images or TrueCrypt volumes can be used.
+6. Private user data is only accessed and managed for professional purposes of supporting users.  Private user data should never be accessed for personal purposes, or purposes other than directly supporting users.
+
+
 ##Inclement Weather Policy
 
 The COS has an inclement weather policy to avoid having staff take risks associated with travel during hazardous road conditions. Inclement weather is defined as adverse weather conditions that have the potential of making travel to and/or from work hazardous for employees. The COS management team will examine current and pending weather conditions and determine the appropriate hours of operations.  If weather conditions are deemed hazardous, the office will open late, close early, or close for the day.  Employees who decide not to drive into the office based upon personal judgment regarding inclement weather and road conditions are allowed to use PTO.  
 
-##Smoking, controlled substances, alcohol, and firearms
+##Smoke Free Workplace
 
-Smoking, controlled substances, and firearms are prohibited on COS premises.  The law defines smoking as the "act of lighting, smoking or carrying a lighted or smoldering cigar, cigarette or pipe of any kind." 
+COS is a smoke free work environment. COS is committed to providing a safe and healthy workplace and to promoting the health and wellbeing of its employees and visitors. In order to supply our employees and visitors with a smoke free work environment, this policy applies to all areas and buildings occupied by COS employees and company sponsored off-site conferences, and meetings. We also ask that our staff and visitors do not come to work smelling of smoke. If you are a smoker who is interested in quitting, please inquire with the Office Manager for information regarding smoking cessation assistance. 
+
+##Controlled substances, alcohol, and firearms
+
+Controlled substances, and firearms are prohibited on COS premises.  The law defines smoking as the "act of lighting, smoking or carrying a lighted or smoldering cigar, cigarette or pipe of any kind." 
 
 In compliance with the Drug-Free Workplace Act, the COS team members are required to be in appropriate mental and physical condition in order to carry out their role and responsibilities to the highest level of excellence. The unlawful manufacture, distribution, possession or use of a controlled substance on COS premises or while conducting COS business at another location is prohibited.  Failure to adhere to this policy could result in immediate termination. 
 
 Alcohol may be included in COS special events, but is not permitted during ordinary working circumstances.
+
+##Kitchen and Trash Policy
+
+Unmarked items in the refrigerator will be thrown away after three days if they have not been marked with a name and date. 
+
+Do not leave dirty dishes in the sink. If the dishwasher contains dirty dishes, put your dirty dish in the washer. If the dishwasher is running, place your rinsed dish in the sink or to the side of the sink. If the dishes in the dishwasher are clean, empty the dishwasher. 
+
+Use the disposal in the kitchen sink for all disposal safe food items; under the cabinet on the right. We have 2 undercounter, pull out, trash receptacles in the kitchen as well as smaller trash cans at desk stations. Do not dispose of food in the small trash cans. 
+
+There is overflow trash in the storage room. Use this trash can for large boxes and when the other trash cans are filled to maximum capacity. Trash is single-source, so we don’t sort recycling - they do. Make sure that minimal food items go into the trash and to remove the coffee filters from the k-cups. 
 
 ##Emergency Procedures
 
@@ -162,6 +197,9 @@ The course of action to take in the event of an emergency will vary depending on
 1. Render whatever help you can without further endangering yourself or others
 1. Yield to the instruction of firefighters, police, or other emergency response personnel.
 1. Make a report of the details of the incident for the COS’s records
+
+##Fire Emergency Exit and Procedure
+The COS designated meeting area in such circumstances is outside in the guest parking spots. In the event of a fire, everyone is to exit the office using the front doors, walk down the hallway, and turn right to exit through the glass double doors for the Downtown Business Center. If this exit is blocked, exit through the Omni hotel. In this scenario, turn left after the hallway, walk through 2 double doors and exit the building using the nearest doors in the Omni hotel, then walk to meet your team at the guest parking spots. 
 
 ##Grievances
 
@@ -243,4 +281,5 @@ Employee Name (Printed):
 
 Signed: 
 
-Dated:  
+Dated: 
+
