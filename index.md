@@ -19,6 +19,14 @@ COS will host a variety of community events during normal business hours, in the
 
 The COS kitchen is a shared space for COS staff and visitors. Everyone is responsible for its cleanliness. Each Friday COS staff clean out of the fridge by either taking home their perishable items or throwing them away. 
 
+COS is committed to providing a safe and healthy workplace and to promoting the health and wellbeing of its employees and visitors. Some members of the COS staff have smoke and pet allergies. As such, these common allergens should not be present in the COS offices or indoor company sponsored events. We ask that our staff and visitors do not come to work smelling of smoke or bring their pets to work.
+COS is additionally considerate of food allergies and dietary restrictions for our bi weekly lunches and other meals. All employees are encouraged to alert the Office Manager to their allergies and restrictions, so that they can be provided for in terms of meals and snacks kept in the kitchen.
+
+_______ 
+											initial 
+
+
+
 ##Hiring Practices
 
 COS is an equal opportunity environment for employment and advancement. The COS and its staff shall not discriminate against individuals on the basis of age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability. Positive action shall be taken to ensure the fulfillment of this policy across organizational activities including:
@@ -42,6 +50,10 @@ The COS is committed to creating and maintaining a work climate that is free fro
 
 Employee application forms, interviews, and on-site trials are early measures often taken to decide whether an applicant is a suitable fit for a company. At COS, we often have candidates coming in for working interviews and attending team lunches. Certain questions asked during any stage of the interview process which are unrelated to the job can lead to the exclusion of otherwise qualified candidates simply based on age, family situation, national origin, religion, race, gender, health, etc. Fair hiring laws exist to give every candidate a fair chance in the interview and selection process. COS staff are expected to review these guidelines and engage with candidates appropriately. 
 Court rulings and Equal Employment Opportunity Commission ("EEOC") guidelines prohibit the use of all pre-employment inquiries that unjustly screen out certain individuals and are not valid predictors of successful job performance or which cannot be justified by "business necessity." See Griggs v. Duke Power Co., 401 U.S. 424 (1971). 
+
+_______ 
+											initial 
+
 
 ##Visiting Staff 
 
@@ -160,14 +172,15 @@ COS staff will be granted access to private Open Science Framework (OSF) user da
 5. Data should be stored on encrypted devices. On Apple computers, FileVault disk encryption is the easiest solution. Otherwise, Apple encrypted disk images or TrueCrypt volumes can be used.
 6. Private user data is only accessed and managed for professional purposes of supporting users.  Private user data should never be accessed for personal purposes, or purposes other than directly supporting users.
 
+_______ 
+											initial 
+
+
 
 ##Inclement Weather Policy
 
 The COS has an inclement weather policy to avoid having staff take risks associated with travel during hazardous road conditions. Inclement weather is defined as adverse weather conditions that have the potential of making travel to and/or from work hazardous for employees. The COS management team will examine current and pending weather conditions and determine the appropriate hours of operations.  If weather conditions are deemed hazardous, the office will open late, close early, or close for the day.  Employees who decide not to drive into the office based upon personal judgment regarding inclement weather and road conditions are allowed to use PTO.  
 
-##Smoke Free Workplace
-
-COS is a smoke free work environment. COS is committed to providing a safe and healthy workplace and to promoting the health and wellbeing of its employees and visitors. In order to supply our employees and visitors with a smoke free work environment, this policy applies to all areas and buildings occupied by COS employees and company sponsored off-site conferences, and meetings. We also ask that our staff and visitors do not come to work smelling of smoke. If you are a smoker who is interested in quitting, please inquire with the Office Manager for information regarding smoking cessation assistance. 
 
 ##Controlled substances, alcohol, and firearms
 
@@ -187,6 +200,10 @@ Use the disposal in the kitchen sink for all disposal safe food items; under the
 
 There is overflow trash in the storage room. Use this trash can for large boxes and when the other trash cans are filled to maximum capacity. Trash is single-source, so we don’t sort recycling - they do. Make sure that minimal food items go into the trash and to remove the coffee filters from the k-cups. 
 
+_______ 
+											initial 
+
+
 ##Emergency Procedures
 
 The course of action to take in the event of an emergency will vary depending on the circumstances. There are, however, some general rules that will usually apply:
@@ -200,6 +217,10 @@ The course of action to take in the event of an emergency will vary depending on
 
 ##Fire Emergency Exit and Procedure
 The COS designated meeting area in such circumstances is outside in the guest parking spots. In the event of a fire, everyone is to exit the office using the front doors, walk down the hallway, and turn right to exit through the glass double doors for the Downtown Business Center. If this exit is blocked, exit through the Omni hotel. In this scenario, turn left after the hallway, walk through 2 double doors and exit the building using the nearest doors in the Omni hotel, then walk to meet your team at the guest parking spots. 
+
+_______ 
+											initial 
+
 
 ##Grievances
 
