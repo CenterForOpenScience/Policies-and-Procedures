@@ -9,7 +9,7 @@ layout: default
 This manual sets forth the Center for Open Science’s policies and procedures for daily operations. The Center for Open Science (COS) complies with the United States Federal and State of Virginia employment laws and regulations. This manual is subject to change to maintain compliance with these laws and regulations. This manual will be reviewed and updated periodically as a means of continuous improvement to the COS’s standard practices and operations. The COS maintains full discretion to add to, modify, or delete provisions of this manual at any time. The COS staff are advised to retain a bookmark to the manual to check for revisions and to stay up-to-date on COS policies.  
 
 Information contact: Denise Holman, [denise@centerforopenscience.org](mailto:denise@centerforopenscience.org)
-r
+
 ##COS Office Environment
 
 The COS operates on the principle of openness. COS provides a 24/7 accessible working environment to staff. The COS is a highly collaborative environment and there is no assigned seating. Everyone operates out of the main "bullpen" area.  While there is an emphasis on collaboration, this model also increases the need to be sensitive to noise so that all staff can be productive in the space.  Staff are encouraged to retreat to a private office to hold meetings or to have phone and video calls.
