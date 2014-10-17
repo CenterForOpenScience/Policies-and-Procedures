@@ -9,7 +9,7 @@ layout: default
 This manual sets forth the Center for Open Science’s policies and procedures for daily operations. The Center for Open Science (COS) complies with the United States Federal and State of Virginia employment laws and regulations. This manual is subject to change to maintain compliance with these laws and regulations. This manual will be reviewed and updated periodically as a means of continuous improvement to the COS’s standard practices and operations. The COS maintains full discretion to add to, modify, or delete provisions of this manual at any time. The COS staff are advised to retain a bookmark to the manual to check for revisions and to stay up-to-date on COS policies.  
 
 Information contact: Denise Holman, [denise@centerforopenscience.org](mailto:denise@centerforopenscience.org)
-r
+
 ##COS Office Environment
 
 The COS operates on the principle of openness. COS provides a 24/7 accessible working environment to staff. The COS is a highly collaborative environment and there is no assigned seating. Everyone operates out of the main "bullpen" area.  While there is an emphasis on collaboration, this model also increases the need to be sensitive to noise so that all staff can be productive in the space.  Staff are encouraged to retreat to a private office to hold meetings or to have phone and video calls.
@@ -175,9 +175,9 @@ _Impartial_: All parties have opportunity to communicate their perspective on th
 
 _Sensitive_: All grievances will be dealt with sensitively and professionally by staff experienced in these matters.
 
-*Free of retaliation or victimization: *Staff involved in a grievance shall not victimized by anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in disciplinary action including termination of the perpetrator. 
+_Free of retaliation or victimization_: Staff involved in a grievance shall not victimized by anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in disciplinary action including termination of the perpetrator. 
 
-*Timely: *Grievances are addressed promptly. 
+_Timely_: Grievances are addressed promptly. 
 
 ##Employee Grievance Procedure
 
@@ -217,7 +217,7 @@ Separation is any action that ends the employee-employer relationship between an
 
 1. **Suspension:**  Should a serious personal misconduct occur, the employee shall be suspended immediately without pay while the case is investigated.  A memorandum delineating the basis for the suspension shall be placed in the employee's personnel file.
 1. **Investigation:**   The activity that resulted in the suspension will be investigated by the directorship.  All facts and related information will be considered.  A memorandum summarizing the investigation and the decision shall be forwarded to the suspended employee and placed in his or her personnel file within ten (10) working days.
-1. **Dismissal/Reinstatement: **The directorship, based on the outcome of the investigation, shall terminate or reinstate the employee.  If the employee is reinstated, the directorship shall also elect whether to consider this suspension as disciplinary time-off without pay, or to compensate the employee for the period of suspension.
+1. **Dismissal/Reinstatement**: The directorship, based on the outcome of the investigation, shall terminate or reinstate the employee.  If the employee is reinstated, the directorship shall also elect whether to consider this suspension as disciplinary time-off without pay, or to compensate the employee for the period of suspension.
 
 ##Reduction in Force
 
