@@ -148,6 +148,21 @@ To receive reimbursement, staff are to submit all receipts and an itemized reimb
 
 Although COS encourages all staff to use Google Voice for all COS related phone calls, COS recognizes job responsibilities may include use of personal cell phones. Employees who use their personal cell phones for COS related activities are to notify the Office Manager and to supply proof of usage.  COS will reimburse staff based upon the following cell phone usage rates: Occasional Usage - $15/month or Regular Usage - $50/month. Employees can request an upgrade with the Office Manager should their use exceed the occasional or moderate usage rates. 
 
+##Honoraria &amp; Speaking Fees
+
+All COS staff contribute to meeting its mission, but only a subset of staff represent COS in speaking engagements and other public appearances. Honoraria or other payments for engagements on behalf of COS acknowledge the contributions of the whole team. That is, the role of publicly representing COS is just one aspect of the commitment, service, and contribution that makes COS speaking engagements possible and successful.
+
+Full time COS employees who travel, give workshops, or speak on behalf of COS may be offered honoraria or speaking fees from the sponsoring organization.  COS compensation is defined as compensation received for a speaking engagement, participation on a panel, consulting or review services, or other activities that are conducted on behalf of COS.  Honorarium payments received under these circumstances will be submitted to COS, and then pooled and distributed among the full-time COS staff by at the end of each calendar year. The total pooled amount will be distributed equally with prorating based upon the total number of days of employment at COS in that given calendar year. Full-time staff that left COS prior to the end of the calendar year are still eligible for receiving their share of funds.
+
+If COS employees are invited to participate in speaking engagements related to the COS mission or to open science and open source topics more generally, they should submit information about the invitation to the COS Community team. The Community team will evaluate the invitation for potential travel sponsorship, and to confirm whether payments for the engagement would qualify as COS Compensation.
+
+Exceptions:
+
+* This policy does not apply to interns, guests, or other non full-time COS staff
+* If presenters accrue tax liability for the speaking fees, they will receive 25% of that speaking fee to cover those costs.  These payments to speakers will deducted from the subsequent year’s overall total pooled funds prior to distribution.  
+* Speaking engagements or other consulting payments for work done that is not related to COS, open science, or open source or is not done on behalf of COS is not subject to this policy
+* This policy may not anticipate all possible scenarios for assessing the types and occasions for receiving payment.  When there is any uncertainty about applicability of the rule, COS staff should introduce the scenario to the Community team to discuss, resolve, and refine the policy accordingly
+
 ##Use of Email &amp; Personal Computer Equipment
 
 All staff will receive a COS email address.  Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property.  If your COS technology needs are not being met, please discuss them with the Office Manager.  
