@@ -184,7 +184,7 @@ The COS has an inclement weather policy to avoid having staff take risks associa
 
 ##Smoke Free Workplace
 
-COS is a smoke free work environment. COS is committed to providing a safe and healthy workplace and to promoting the health and wellbeing of its employees and visitors. In order to supply our employees and visitors with a smoke free work environment, this policy applies to all areas and buildings occupied by COS employees and company sponsored off-site conferences, and meetings. We also ask that our staff and visitors do not come to work smelling of smoke. If you are a smoker who is interested in quitting, please inquire with the Office Manager for information regarding smoking cessation assistance. 
+COS is committed to providing a safe and healthy workplace and to promoting the health and wellbeing of its employees and visitors. Some members of the COS staff have significant smoke and pet allergies. Exposure to smoke or pets can cause a reaction that would prevent them from working and require that they leave the office. As such, these common allergens should not be present in the COS offices or indoor company sponsored events. Staff and visitors should not bring pets or come to work smelling of smoke.
 
 ##Controlled substances, alcohol, and firearms
 
