@@ -167,6 +167,10 @@ Exceptions:
 
 All staff will receive a COS email address.  Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property.  If your COS technology needs are not being met, please discuss them with the Office Manager.  
 
+##COS Emails and Files Upon Departure
+
+COS will deactivate all corporate Google Apps (cos.io domain) accounts belonging to individuals no longer affiliated with the organization. Upon separation of employment, COS will provide notice to employees that their corporate accounts will be deactivated within fifteen (15) business days of the employee’s last work day. COS will provide assistance in transitioning from a corporate account to a private Google account if necessary.  Any content in Google Drive related to COS operations that has been shared with private Google accounts will be restricted upon deactivation of corporate Google Apps accounts. COS reserves the right to read and keep record of correspondence submitted using these accounts, but this will occur only when necessary for business continuity purposes. For example, it may be necessary to retain correspondence for a departing staff member who served as point-of-contact for external partners in order for the staff members’ replacement to have a full record of the partnership history.
+
 ##Data Privacy
 
 COS staff will be granted access to private Open Science Framework (OSF) user data. To ensure the privacy of user data, it is understood that; 
