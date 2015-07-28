@@ -8,7 +8,10 @@ layout: default
 
 This manual sets forth the Center for Open Science’s policies and procedures for daily operations. The Center for Open Science (COS) complies with the United States Federal and State of Virginia employment laws and regulations. This manual is subject to change to maintain compliance with these laws and regulations. This manual will be reviewed and updated periodically as a means of continuous improvement to the COS’s standard practices and operations. COS maintains full discretion to add to, modify, or delete provisions of this manual at any time. COS staff are advised to retain a bookmark to the manual to check for revisions and to stay up-to-date on COS policies.  
 
-Information contact: Denise Holman, [denise@centerforopenscience.org](mailto:denise@centerforopenscience.org)
+Information contacts: 
+Denise Holman, [denise@cos.io](mailto:denise@cos.io)
+Betsy Ferronato, [betsy@cos.io](mailto:betsy@cos.io)
+Andrew Sallans, [andrew@cos.io](mailto:andrew@cos.io)
 
 ##COS Office Environment
 
@@ -16,7 +19,7 @@ COS operates on the principle of openness. It provides a 24/7 accessible working
 
 While there is an emphasis on collaboration, this model also increases the need to be sensitive to noise so that all staff can be productive in the space.  Staff are encouraged to retreat to a private office to hold meetings or to have phone and video calls.
 
-COS will host a variety of community events during normal business hours, in the evenings, and on weekends. During these events, one COS staff member must be present at minimum. This staff member is responsible for ensuring responsible use of the space, properly disposing of any trash following the event, and properly closing up. 
+COS will host a variety of community events during normal business hours, in the evenings, and on weekends. During these events, one full-time COS staff member must be present at minimum. This staff member is responsible for ensuring responsible use of the space, properly disposing of any trash following the event, and properly closing up. 
 
 The COS kitchen is a shared space for COS staff and visitors. Everyone is responsible for its cleanliness. Each Friday COS staff clean out of the fridge by either taking home their perishable items or throwing them away. 
 
@@ -44,6 +47,7 @@ The COS is committed to creating and maintaining a work climate that is free fro
 ##Legal Interviewing Practices
 
 Employee application forms, interviews, and on-site trials are early measures often taken to decide whether an applicant is a suitable fit for a company. At COS, we often have candidates coming in for working interviews and attending team lunches. Certain questions asked during any stage of the interview process which are unrelated to the job can lead to the exclusion of otherwise qualified candidates simply based on age, family situation, national origin, religion, race, gender, health, etc. Fair hiring laws exist to give every candidate a fair chance in the interview and selection process. COS staff are expected to review these guidelines and engage with candidates appropriately. 
+
 Court rulings and Equal Employment Opportunity Commission ("EEOC") guidelines prohibit the use of all pre-employment inquiries that unjustly screen out certain individuals and are not valid predictors of successful job performance or which cannot be justified by "business necessity." See Griggs v. Duke Power Co., 401 U.S. 424 (1971). 
 
 ##Visiting Staff 
@@ -73,7 +77,7 @@ All employees are assigned to an employee status category determined at the time
 
 **Full-Time:** Employees who are not on a temporary status and who are regularly scheduled to work a full-time (40+) hour week are eligible for the COS benefits package (health and dental insurance, disability insurance, and 401(k) program) and are subject to the terms, conditions, and limitations of each benefit program.
 
-**Part-Time:** Employees who are regularly scheduled to work less than the full-time work week, but not the COS benefits package (see above). These employees are eligible for benefits including occasionally catered meals and the stocked kitchen.
+**Part-Time:** Employees who are regularly scheduled to work 29 or less hours per week. These employees are eligible for benefits including occasionally catered meals and the stocked kitchen.
 
 **Seasonal:** Employees who are employed by the organization to work part- or full-time are eligible for certain benefits including occasionally catered meals and the stocked kitchen. 
 
@@ -91,11 +95,11 @@ All employees are assigned to one of the following classifications of employment
 
 ##Paid Time Off (PTO)
 
-At the beginning of each year, COS employees receive fifteen (15) days of “Paid Time Off” (PTO).  Upon termination all unused PTO will be forfeited.  PTO is not accrued and has no cash value.  Staff must confirm PTO with a supervisor and indicate the time off on the COS Google shared calendar.  Anyone who cannot work due to an illness or emergency should notify supervisors, the Office Manager, or the team by emailing cos-staff@lists.centerforopenscience.org.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.  
+At the beginning of each year, COS employees receive fifteen (15) days of “Paid Time Off” (PTO). Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with a supervisor and indicate the time off on their COS Google calendar. Anyone who cannot work due to an illness or emergency should notify the Office Manager and their team lead. . Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
 
 ##New Employee Orientation
 
-Each new employee will be given a general orientation by the Office Manager. This orientation will include a review of the personnel policies and procedures,  the employee's position description, employee benefits, and any other materials necessary for the individual to understand the COS and his or her job.  
+Each new employee will be given a general orientation by the Human Resources Assistant. This orientation will include an overview of how the office operates, employee benefits, and any other materials necessary for the individual to begin work at COS.
 
 ##Personnel Records
 
@@ -138,7 +142,7 @@ Pay dates for COS staff are on the 15th and the 30/31 of each month (or last bus
  
 If a paycheck is lost or stolen, it is the individual’s responsibility to report it immediately to the Office Manager, and submit an email statement certifying that the pay check was lost or stolen.  Following that, a replacement check will be issued. 
  
-Notify the Office Manager of changes to direct deposit by completing and returning a new Direct Deposit slip.
+Update direct deposit information in Zenefits and promptly notify the Office Manager of changes. 
 
 ##Reimbursements
 
@@ -165,7 +169,7 @@ Exceptions:
 
 ##Use of Email &amp; Personal Computer Equipment
 
-All staff will receive a COS email address.  Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property.  If your COS technology needs are not being met, please discuss them with the Office Manager.  
+All staff will receive a COS email address.  Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property.  If your COS technology needs are not being met, please discuss them with the Human Resources Assistant.  
 
 ##COS Emails and Files Upon Departure
 
@@ -184,7 +188,7 @@ COS staff will be granted access to private Open Science Framework (OSF) user da
 
 ##Inclement Weather Policy
 
-The COS has an inclement weather policy to avoid having staff take risks associated with travel during hazardous road conditions. Inclement weather is defined as adverse weather conditions that have the potential of making travel to and/or from work hazardous for employees. The COS management team will examine current and pending weather conditions and determine the appropriate hours of operations.  If weather conditions are deemed hazardous, the office will open late, close early, or close for the day.  Employees who decide not to drive into the office based upon personal judgment regarding inclement weather and road conditions are allowed to use PTO.  
+The COS has an inclement weather policy to avoid having staff take risks associated with travel during hazardous road conditions. Inclement weather is defined as adverse weather conditions that have the potential of making travel to and/or from work hazardous for employees. The COS management team will examine current and pending weather conditions and determine the appropriate hours of operations.  If weather conditions are deemed hazardous, the office will open late, close early, or close for the day.  Employees who decide not to drive into the office based upon personal judgment regarding inclement weather and road conditions are allowed to use PTO or work from home.
 
 ##Smoke Free Workplace
 
@@ -192,7 +196,7 @@ COS is committed to providing a safe and healthy workplace and to promoting the 
 
 ##Controlled substances, alcohol, and firearms
 
-Controlled substances, and firearms are prohibited on COS premises.  The law defines smoking as the "act of lighting, smoking or carrying a lighted or smoldering cigar, cigarette or pipe of any kind." 
+Controlled substances, and firearms are prohibited on COS premises.  
 
 In compliance with the Drug-Free Workplace Act, the COS team members are required to be in appropriate mental and physical condition in order to carry out their role and responsibilities to the highest level of excellence. The unlawful manufacture, distribution, possession or use of a controlled substance on COS premises or while conducting COS business at another location is prohibited.  Failure to adhere to this policy could result in immediate termination. 
 
@@ -242,7 +246,11 @@ _Timely_: Grievances are addressed promptly.
 
 **Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by direct approach to the employee or employees involved. 
 
-**Formal stage:** If the matter remains unresolved, employees are to report the incident to management immediately. The COS management will resolve the issue and decide if a formal meeting between the parties is necessary. This meeting should be held within 10 working days of the grievance.  If, after any action to resolve the grievance taken by the directorship, the employee is still dissatisfied, they may file an appeal. 
+**Formal stage:** If the matter remains unresolved, employees are to report the incident to the Human Resources Assistant or Office Manager immediately.. COS management will resolve the issue and decide if a formal meeting between the parties is necessary. This meeting should be held within 10 working days of the grievance. If, after any action to resolve the grievance taken by the directorship, the employee is still dissatisfied, they may file an appeal.
+
+##Romantic Relationships with Co-workers
+
+COS does not prohibit romantic relationships between employees,  however, interactions while at work and attending work functions should be  professional. 
 
 ##Harassment and Unfair Treatment
 
@@ -256,7 +264,7 @@ Sexual harassment is defined as a form of sex discrimination, consisting of unwa
 
 Other discriminatory harassment is defined as verbal or physical conduct that denigrates or shows hostility or aversion toward an individual because of his/her age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability.
 
-Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, either to the Office Manager or the Management Team.  A confidential investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
+Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, either to the Office Manager or the Human Resources Assistant.  A confidential investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
 
 ##Dismissal Without Cause (At-Will)
 
@@ -275,16 +283,16 @@ Separation is any action that ends the employee-employer relationship between an
 **Personal Misconduct:** Disciplinary action under this category results from employee misconduct that is contrary to the best interests of the COS and is more serious than performance of duty infractions. Specific examples of serious personal misconduct actions include being convicted of a felony, misusing funds, fighting or attempting bodily injury to another COS staff member or visitor, using abusive or threatening language, sexual harassment, divulging confidential information, theft or dishonesty, intoxication or possession of illegal substances, possession of weapons on COS premises,  soliciting tips from clients, and falsifying documents.  These examples are not exhaustive of the category. Any employee may be terminated immediately for a serious offense.  The following process applies:
 
 1. **Suspension:**  Should a serious personal misconduct occur, the employee shall be suspended immediately without pay while the case is investigated.  A memorandum delineating the basis for the suspension shall be placed in the employee's personnel file.
-1. **Investigation:**   The activity that resulted in the suspension will be investigated by the directorship.  All facts and related information will be considered.  A memorandum summarizing the investigation and the decision shall be forwarded to the suspended employee and placed in his or her personnel file within ten (10) working days.
-1. **Dismissal/Reinstatement**: The directorship, based on the outcome of the investigation, shall terminate or reinstate the employee.  If the employee is reinstated, the directorship shall also elect whether to consider this suspension as disciplinary time-off without pay, or to compensate the employee for the period of suspension.
+2. **Investigation:**   The activity that resulted in the suspension will be investigated by the directorship.  All facts and related information will be considered.  A memorandum summarizing the investigation and the decision shall be forwarded to the suspended employee and placed in his or her personnel file within ten (10) working days.
+3. **Dismissal/Reinstatement**: The directorship, based on the outcome of the investigation, shall terminate or reinstate the employee.  If the employee is reinstated, the directorship shall also elect whether to consider this suspension as disciplinary time-off without pay, or to compensate the employee for the period of suspension.
 
 ##Reduction in Force
 
 The COS may terminate employees due to organizational realities including but not limited to: a lack of funds, elimination of position(s), termination of contract, reorganization, and restrictions of funding agencies.  Such termination will be considered a Reduction in Force and the following principles shall apply:
 
 1. Consideration will be given to the need for the position, performance history, compensation, and seniority at the COS
-1. Whenever possible, at least thirty (30) days notice will be given to a terminated employee.
-1. Appropriate information and support for filing unemployment claims will be provided.
+2. Whenever possible, at least thirty (30) days notice will be given to a terminated employee.
+3. Appropriate information and support for filing unemployment claims will be provided.
 
 ##Resignation
 
@@ -292,11 +300,11 @@ Resignation is a separation from the COS initiated by the employee.  Employees, 
 
 ##Exit Interview
 
-Any employee terminating employment for any reason will be scheduled for an exit interview with the directorship prior to departure. All information will be strictly confidential. The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to the COS for improving its policies and practices.
+Any employee terminating employment for any reason will be scheduled for an exit interview with the Human Resources Assistant  prior to departure. All information will be strictly confidential. The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to the COS for improving its policies and practices.
 
 ##Policies and Procedures Manual Signature Sheet
 
-Please electronically sign below indicating that you have received, read, and understand the Center for Open Science Engagement Manual. This Manual in conjunction with your Offer Letter and Employee Manual forms the Terms and Conditions of your employment with the Center for Open Science.  
+This Manual in conjunction with your Offer Letter and Employee Manual forms the Terms and Conditions of your employment with the Center for Open Science.  
 
 Employee Name (Printed): 
 
