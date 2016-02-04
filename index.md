@@ -95,7 +95,7 @@ Students, Trainees, and Volunteers: Students, trainees, and volunteers, when act
 
 ##Paid Time Off (PTO)
 
-At the beginning of each year, full-time regular COS employees receive fifteen (15) days of “Paid Time Off” (PTO).  Part-time Regular COS employees will receive a determined number of PTO days based upon start date.  Upon termination, all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with a supervisor and indicate the time off on their COS Google Calendar. Anyone who cannot work due to an illness or emergency should notify the Human Resources Assistant and their team lead.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
+At the beginning of each year, all full-time COS employees receive fifteen (15) days of “Paid Time Off” (PTO). Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with a supervisor and indicate the time off on their COS Google calendar. All staff who cannot work due to an illness or emergency should notify the Human Resources Assistant and their team lead.  Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
 
 ##New Employee Orientation
 
