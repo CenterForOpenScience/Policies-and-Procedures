@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Policies and Procedure Manual
+Policies and Procedure Manual
+==================
 
 ##Introduction
 
