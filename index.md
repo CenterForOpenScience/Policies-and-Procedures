@@ -155,7 +155,7 @@ Update direct deposit information in Zenefits and promptly notify the Human Reso
 Reimbursements
 ------------------
 
-COS staff members may pay for pre-authorized expenses while traveling. Pre-authorized expenses include meals, lodging, telephone, internet charges, and mileage. COS will reimburse staff for mileage traveled in their personal vehicle for COS related activities. COS will reimburse mileage based upon the standard IRS Mileage Rates. Parking violations, towing, and traffic fines will not be reimbursed.
+COS staff members may pay for pre-authorized expenses while traveling. Pre-authorized expenses include meals, lodging, telephone, internet charges, and mileage. COS will reimburse staff for mileage traveled in their personal vehicle for COS related activities. COS will reimburse mileage based upon the standard IRS Mileage Rates. Parking violations, towing, and traffic fines will not be reimbursed. Please find the reimbursement request form here: https://drive.google.com/a/cos.io/file/d/0B2QLi5K0y5KWMWItMk1qd2h6dHc/view?ts=56ba3abc
 
 To receive reimbursement, staff are to submit all receipts and an itemized reimbursement request form to the Office Manager within thirty (60) days of the reimbursable expense(s). All reimbursements are subject to management’s final approval. Late submissions will not be eligible for reimbursement.
 
