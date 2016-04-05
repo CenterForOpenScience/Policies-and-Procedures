@@ -152,14 +152,50 @@ If a paycheck is lost or stolen, it is the individual’s responsibility to repo
 
 Update direct deposit information in Zenefits and promptly notify the Human Resources Assistant of changes.
 
-Reimbursements
+Expense Reimbursement
 ------------------
 
-COS staff members may pay for pre-authorized expenses while traveling. Pre-authorized expenses include meals, lodging, telephone, internet charges, and mileage. COS will reimburse staff for mileage traveled in their personal vehicle for COS related activities. COS will reimburse mileage based upon the standard IRS Mileage Rates. Parking violations, towing, and traffic fines will not be reimbursed. Please find the reimbursement request form here: https://drive.google.com/a/cos.io/file/d/0B2QLi5K0y5KWMWItMk1qd2h6dHc/view?ts=56ba3abc
+COS staff members may pay for pre­authorized expenses while traveling. Pre­authorized expenses include meals, lodging, telephone, internet charges, mileage, and incidental expenses necessary to complete COS job functions. COS will reimburse staff for mileage traveled in their personal vehicle for COS related activities. COS will reimburse mileage based upon the
+standard IRS Mileage Rates.
 
-To receive reimbursement, staff are to submit all receipts and an itemized reimbursement request form to the Office Manager within thirty (60) days of the reimbursable expense(s). All reimbursements are subject to management’s final approval. Late submissions will not be eligible for reimbursement.
+COS will not reimburse the following: Cash withdrawals, exchanges, or advances; items or services illegal under US federal or VA state law; parking violations, towing, traffic fines, or other legal fees; items that are counter to the mission, budget, or policy of COS or that of our funders.
 
-Although COS encourages all staff to use Google Voice for all COS related phone calls, COS recognizes job responsibilities may include use of personal cell phones. Employees who use their personal cell phones for COS related activities are to notify the Office Manager and to supply proof of usage. COS will reimburse staff based upon the following cell phone usage rates: Occasional Usage - $15/month or Regular Usage - $50/month. Employees can request an upgrade with the Office Manager should their use exceed the occasional or moderate usage rates.
+To receive reimbursement, staff are to submit all paper and digital receipts to the Office Manager or billing@cos.io within thirty (30) days of the reimbursable expense. Expense receipts may be submitted in print or digital form and must include the following: transaction date, amount, and vendor name. If a vendor receipt is not available, a copy of credit or bank statement line item along with statement of items purchased will be accepted for purchases under $75. Reimbursable expenses over $1,000 and international flights require pre­approval. All reimbursements and policy exceptions are subject to management’s final approval. Late submissions will not be eligible for reimbursement.
+
+Reimbursable amounts will be included in employee’s paycheck as untaxed income on the following schedule: requests received the 21st-5th of the month will be added to payroll on the 15th. Those received the 6th-20th will be included on the 30/31st.
+
+Approved Expense Documentation
+
+Purchases above this amount without a receipt will be subject to management approval.
+
+Excluded Expenses:
+
+● Cash withdrawals, exchanges, or advances
+
+● Items illegal under US federal or VA state law
+
+● Parking violations, towing, traffic fines, or other legal fees
+
+● Items that are counter to the mission, budget, or policy of COS or that of our funders
+
+**Foreign Transactions**
+
+If not clearly marked on receipt, foreign currency should be manually noted. Currency used must be official currency of local country unless otherwise approved by Admin. Assistant.
+
+**Exchange Rate**
+
+It is the policy of COS to reimburse using the exchange rate provided by Expensify at the time of processing.
+
+Individuals should submit copies of credit statements along with original purchase receipt to be reimbursed at actual cost. Corresponding charges should be highlighted on statement. If bank records are not submitted, reimbursement will be processed using Expensify exchange rate.
+
+**Cell Phone Reimbursement**
+
+Although COS encourages all staff to use Google Voice for all COS related phone calls, COS recognizes job responsibilities may include use of personal cell phones. Employees who use their personal cell phones for COS related activities are to notify the Office Manager and to supply proof of usage. COS will reimburse staff based upon the following cell phone usage
+rates: Occasional Usage ­ $15/month or Regular Usage ­ $50/month. Employees can request an upgrade with the Office Manager should their use exceed the occasional or moderate usage rates.
+
+**Third‐party Reimbursement**
+
+COS employees are often invited to participate in conferences, lectures, or other events as representatives of COS. Reimbursement from hosting agency should be sought when available. COS staff are responsible for reporting all expenses incurred through COS activities followingthe in procedure above. Third­party reimbursements are payable to the Center for Open Science and COS will administer payment to employee. It is the individual’s responsibility to inform themselves on the third party reimbursement policies and procedures and provide this information to billing@cos.io in order the administer billing and payment.
 
 Honoraria &amp; Speaking Fees
 ------------------
