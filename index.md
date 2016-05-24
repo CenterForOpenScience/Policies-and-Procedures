@@ -11,7 +11,6 @@ Introduction
 This manual sets forth the Center for Open Science’s policies and procedures for daily operations. The Center for Open Science (COS) complies with the United States Federal and State of Virginia employment laws and regulations. This manual is subject to change to maintain compliance with these laws and regulations. This manual will be reviewed and updated periodically as a means of continuous improvement to the COS’s standard practices and operations. COS maintains full discretion to add to, modify, or delete provisions of this manual at any time. COS staff are advised to retain a bookmark to the manual to check for revisions and to stay up-to-date on COS policies.  
 
 Information contacts: 
-Denise Holman, [denise@cos.io](mailto:denise@cos.io)
 Betsy Ferronato, [betsy@cos.io](mailto:betsy@cos.io)
 Andrew Sallans, [andrew@cos.io](mailto:andrew@cos.io)
 
@@ -75,7 +74,7 @@ General Criteria for Hiring Selection
 
 **Offer by Letter:**  Once selection has been made, an offer of employment will be made by letter and digitally distributed.  Such letter will contain position/title, annual or hourly salary, starting date, and any other specific items agreed upon by OS. 
 
-**Acceptance by Letter:**  Acceptance of employment will be indicated by digitally signing offer letter and returning it to the Office Manager.
+**Acceptance by Letter:**  Acceptance of employment will be indicated by digitally signing offer letter and returning it to Human Resources.
 
 Employment Status
 ------------------
@@ -116,7 +115,7 @@ Each new employee will be given a general orientation by the Human Resources Ass
 Personnel Records
 ------------------
 
-**Contents:**  All personnel will have a confidential personnel record.  Each record will be under the direct supervision of the Director and maintained by the Office Manager with documents such as:
+**Contents:**  All personnel will have a confidential personnel record.  Each record will be under the direct supervision of the Director and maintained by Human Resources with documents such as:
 
 - Employee resume, CV, and/or completed application material
 - Signed Offer Letter 
@@ -130,7 +129,7 @@ Personnel Records
 
 **Distribution:** Distribution of staff information will occur only in the following circumstances: A) Information required by law for submission of state and federal reports or as required by subpoena,  B) Information needed by insurance companies who contract with COS for the employees’ fringe benefit coverage, and C) The content of an employee’s personnel file may be viewed for business purposes by the Board.  
 
-**Employee Access to Personnel Files:** Employees are permitted to review their own personnel records.  An employee wishing to view his/her records should contact the Office Manager to schedule an appointment to do so.
+**Employee Access to Personnel Files:** Employees are permitted to review their own personnel records.  An employee wishing to view his/her records should contact Human Resources to schedule an appointment to do so.
 
 Feedback and Review Process
 ------------------
@@ -148,7 +147,7 @@ Pay Schedule (15th and 30/31)
 
 Pay dates for COS staff are on the 15th and the 30/31 of each month (or last business day preceding the 15th or the last day of the month). When a payday falls on a holiday, the pay date will be on the last business day prior to the holiday. COS is required by law to make certain deductions for federal and state withholding taxes and social security. COS employees may voluntarily have deductions made from their paychecks on a pre-tax basis to pay for any dependent(s) health and dental insurance coverage.
 
-If a paycheck is lost or stolen, it is the individual’s responsibility to report it immediately to the Office Manager, and submit an email statement certifying that the pay check was lost or stolen. Following that, a new direct deposit check will be issued. COS aims to direct deposit all paychecks, however, in circumstances when a paper check is required, please notify the Office Manager. 
+If a paycheck is lost or stolen, it is the individual’s responsibility to report it immediately to Human Resources, and submit an email statement certifying that the pay check was lost or stolen. Following that, a new direct deposit check will be issued. COS aims to direct deposit all paychecks, however, in circumstances when a paper check is required, please notify Human Resources. 
 
 Update direct deposit information in Zenefits and promptly notify the Human Resources Assistant of changes.
 
@@ -160,7 +159,7 @@ standard IRS Mileage Rates.
 
 COS will not reimburse the following: Cash withdrawals, exchanges, or advances; items or services illegal under US federal or VA state law; parking violations, towing, traffic fines, or other legal fees; items that are counter to the mission, budget, or policy of COS or that of our funders.
 
-To receive reimbursement, staff are to submit all paper and digital receipts to the Office Manager or billing@cos.io within thirty (30) days of the reimbursable expense. Expense receipts may be submitted in print or digital form and must include the following: transaction date, amount, and vendor name. If a vendor receipt is not available, a copy of credit or bank statement line item along with statement of items purchased will be accepted for purchases under $75. Reimbursable expenses over $1,000 and international flights require pre­approval. All reimbursements and policy exceptions are subject to management’s final approval. Late submissions will not be eligible for reimbursement.
+To receive reimbursement, staff are to submit all paper and digital receipts to Human Resources or billing@cos.io within thirty (30) days of the reimbursable expense. Expense receipts may be submitted in print or digital form and must include the following: transaction date, amount, and vendor name. If a vendor receipt is not available, a copy of credit or bank statement line item along with statement of items purchased will be accepted for purchases under $75. Reimbursable expenses over $1,000 and international flights require pre­approval. All reimbursements and policy exceptions are subject to management’s final approval. Late submissions will not be eligible for reimbursement.
 
 Reimbursable amounts will be included in employee’s paycheck as untaxed income on the following schedule: requests received the 21st-5th of the month will be added to payroll on the 15th. Those received the 6th-20th will be included on the 30/31st.
 
@@ -190,8 +189,8 @@ Individuals should submit copies of credit statements along with original purcha
 
 **Cell Phone Reimbursement**
 
-Although COS encourages all staff to use Google Voice for all COS related phone calls, COS recognizes job responsibilities may include use of personal cell phones. Employees who use their personal cell phones for COS related activities are to notify the Office Manager and to supply proof of usage. COS will reimburse staff based upon the following cell phone usage
-rates: Occasional Usage ­ $15/month or Regular Usage ­ $50/month. Employees can request an upgrade with the Office Manager should their use exceed the occasional or moderate usage rates.
+Although COS encourages all staff to use Google Voice for all COS related phone calls, COS recognizes job responsibilities may include use of personal cell phones. Employees who use their personal cell phones for COS related activities are to notify Human Resources and to supply proof of usage. COS will reimburse staff based upon the following cell phone usage
+rates: Occasional Usage ­ $15/month or Regular Usage ­ $50/month. Employees can request an upgrade with Human Resources should their use exceed the occasional or moderate usage rates.
 
 **Third‐party Reimbursement**
 
@@ -216,7 +215,7 @@ Exceptions:
 Use of Email &amp; Personal Computer Equipment
 ------------------
 
-All full-time regular and full-time temporary staff will receive a COS email address. Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property. If your COS technology needs are not being met, please discuss them with the Office Manager.
+All full-time regular and full-time temporary staff will receive a COS email address. Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property. If your COS technology needs are not being met, please discuss them with Human Resources.
 
 COS Emails and Files Upon Departure
 ------------------
@@ -304,7 +303,7 @@ Employee Grievance Procedure
 
 **Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by direct approach to the employee or employees involved. 
 
-**Formal stage:** If the matter remains unresolved, employees are to report the incident to the Human Resources Assistant or Office Manager immediately.. COS management will resolve the issue and decide if a formal meeting between the parties is necessary. This meeting should be held within 10 working days of the grievance. If, after any action to resolve the grievance taken by the directorship, the employee is still dissatisfied, they may file an appeal.
+**Formal stage:** If the matter remains unresolved, employees are to report the incident to Human Resources immediately. COS management will resolve the issue and decide if a formal meeting between the parties is necessary. This meeting should be held within 10 working days of the grievance. If, after any action to resolve the grievance taken by the directorship, the employee is still dissatisfied, they may file an appeal.
 
 Romantic Relationships with Co-workers
 ------------------
@@ -324,7 +323,7 @@ Sexual harassment is defined as a form of sex discrimination, consisting of unwa
 
 Other discriminatory harassment is defined as verbal or physical conduct that denigrates or shows hostility or aversion toward an individual because of his/her age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability.
 
-Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, either to the Office Manager or the Human Resources Assistant.  A confidential investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
+Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, to Human Resources.  A confidential investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
 
 Dismissal Without Cause (At-Will)
 ------------------
@@ -338,7 +337,7 @@ Separation is any action that ends the employee-employer relationship between an
 
 **Performance of Duties:**  These include violation of the personnel policies or violation of an employee's position requirements.  Specific examples include inefficiency or incompetence in performance of duties, tardiness, absenteeism, improper use of property or equipment, failure to maintain professional interpersonal relationships, and abusive or obscene language.  These examples are not exhaustive of the category.
 
-1. **Warning:**   The supervisor shall advise the employee of the specific infraction or breach of duty and the date of the incident. The employee has the opportunity to explain the reason for the conduct. The Office Manager will prepare a memorandum for the personnel file documenting the infraction and employee’s response. The directorship shall monitor progress and review with the employee. Progress and review will be documented in the employee’s personnel file.
+1. **Warning:**   The supervisor shall advise the employee of the specific infraction or breach of duty and the date of the incident. The employee has the opportunity to explain the reason for the conduct. Human Resources will prepare a memorandum for the personnel file documenting the infraction and employee’s response. The directorship shall monitor progress and review with the employee. Progress and review will be documented in the employee’s personnel file.
 1. **Probation:**  Repetition of an infraction may result in probation. Repeated incidents will be documented as described in step one. Probation shall be for at least 90 days.  During this period, a review process will determine if the required corrective actions are implemented and effective. No salary increases or bonuses will be given while an employee is on probation.
 1. **Termination:** Continued repetition by an employee, of an infraction which has been specified in a written warning, will result in the termination of the employee.  This is the final disciplinary step for infractions under the performance of duties category.
 
