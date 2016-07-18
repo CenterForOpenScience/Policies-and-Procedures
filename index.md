@@ -54,6 +54,43 @@ Employee application forms, interviews, and on-site trials are early measures of
 
 Court rulings and Equal Employment Opportunity Commission (“EEOC”) guidelines prohibit the use of all pre-employment inquiries that unjustly screen out certain individuals and are not valid predictors of successful job performance or which cannot be justified by “business necessity.
 
+Background Checks
+------------------
+
+As of July 1st, 2016, the Center for Open Science will conduct background checks on all candidates offered an Operations Team position of employment with COS. Background checks will be conducted by Zenefits. All background checks will be conducted in compliance with federal and state law.  Information obtained through a background check will be kept separate from the regular personnel file and will be maintained in strict confidence, consistent with the terms and purpose of this policy. The background check generally will include a review of information from an individual’s previous employer(s), educational institutions, and law enforcement agencies at the federal, state and county levels. 
+
+Background checks may include but are not limited to:
+
+Review of criminal records
+
+Verification of social security number
+
+Address history verification
+
+Verification of educational records
+
+Verification of employment records
+
+Sexual offender registry search
+
+Terror watch list search 
+
+For new hires, background checks will be processed at the time a conditional offer of employment is made.  In each case in which a background check will be performed, the individual will be asked to complete and sign a release authorizing Zenefits to conduct the background check.  If the individual fails to sign the release, any offer for employment, and any current employment may be terminated. 
+
+Background check reports will be obtained and reviewed by Human Resources, who may review
+the information with the appropriate member of senior staff, the Center for Open Science’s legal
+counsel, or others with a need to know. Background check findings in the following categories will disqualify a candidate from employment:
+
+Conviction of a misdemeanor or felony, with the exception of traffic violations
+
+Being listed on the sex offender list
+
+Being listed on the terror watch list.
+
+If an individual is to be denied employment wholly or partly because of information obtained in a background check, the individual will be so informed in advance of any adverse action.  In addition, where required by law and to the extent applicable, the individual will be given (a) a copy of the relevant background check report, (b) a summary of the individual’s legal rights concerning the background check report, and (c) the name, address and phone number of the third-party vendor if the individual has questions about the results of the report or wants to dispute the accuracy of the report.  (Note, however, that the vendor does not make employment decisions and will unable to provide any individual with specific reasons as to why the adverse action was taken.)  
+
+Any questions concerning this policy may be directed to Human Resources.
+
 Visiting Staff 
 ------------------
 
