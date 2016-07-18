@@ -206,13 +206,13 @@ Purchases above this amount without a receipt will be subject to management appr
 
 Excluded Expenses:
 
-● Cash withdrawals, exchanges, or advances
+- Cash withdrawals, exchanges, or advances
 
-● Items illegal under US federal or VA state law
+- Items illegal under US federal or VA state law
 
-● Parking violations, towing, traffic fines, or other legal fees
+- Parking violations, towing, traffic fines, or other legal fees
 
-● Items that are counter to the mission, budget, or policy of COS or that of our funders
+- Items that are counter to the mission, budget, or policy of COS or that of our funders
 
 **Foreign Transactions**
 
