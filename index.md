@@ -32,13 +32,13 @@ Hiring Practices
 
 COS is an equal opportunity environment for employment and advancement. COS and its staff shall not discriminate against individuals on the basis of age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability. Positive action shall be taken to ensure the fulfillment of this policy across organizational activities including:
 
-Hiring, placement, upgrading, transfer, or demotion;
+- Hiring, placement, upgrading, transfer, or demotion;
 
-Recruitment, advertising, or solicitation for employment;
+- Recruitment, advertising, or solicitation for employment;
 
-Treatment during employment; and
+- Treatment during employment; and
 
-Selection for training
+- Selection for training
 
 This policy is consistent with the requirements and objectives set forth by the Presidential Executive Order 11246 as amended by Executive Order 11375.
 
@@ -60,19 +60,19 @@ As of July 1st, 2016, the Center for Open Science will conduct background checks
 
 Background checks may include but are not limited to:
 
-Review of criminal records
+- Review of criminal records
 
-Verification of social security number
+- Verification of social security number
 
-Address history verification
+- Address history verification
 
-Verification of educational records
+- Verification of educational records
 
-Verification of employment records
+- Verification of employment records
 
-Sexual offender registry search
+- Sexual offender registry search
 
-Terror watch list search 
+- Terror watch list search 
 
 For new hires, background checks will be processed at the time a conditional offer of employment is made.  In each case in which a background check will be performed, the individual will be asked to complete and sign a release authorizing Zenefits to conduct the background check.  If the individual fails to sign the release, any offer for employment, and any current employment may be terminated. 
 
@@ -80,11 +80,11 @@ Background check reports will be obtained and reviewed by Human Resources, who m
 the information with the appropriate member of senior staff, the Center for Open Science’s legal
 counsel, or others with a need to know. Background check findings in the following categories will disqualify a candidate from employment:
 
-Conviction of a misdemeanor or felony, with the exception of traffic violations
+- Conviction of a misdemeanor or felony, with the exception of traffic violations
 
-Being listed on the sex offender list
+- Being listed on the sex offender list
 
-Being listed on the terror watch list.
+- Being listed on the terror watch list.
 
 If an individual is to be denied employment wholly or partly because of information obtained in a background check, the individual will be so informed in advance of any adverse action.  In addition, where required by law and to the extent applicable, the individual will be given (a) a copy of the relevant background check report, (b) a summary of the individual’s legal rights concerning the background check report, and (c) the name, address and phone number of the third-party vendor if the individual has questions about the results of the report or wants to dispute the accuracy of the report.  (Note, however, that the vendor does not make employment decisions and will unable to provide any individual with specific reasons as to why the adverse action was taken.)  
 
