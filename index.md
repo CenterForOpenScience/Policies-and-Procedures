@@ -286,7 +286,13 @@ Controlled substances, alcohol, and firearms
 
 Controlled substances, and firearms are prohibited on COS premises.  
 
-In compliance with the Drug-Free Workplace Act, the COS team members are required to be in appropriate mental and physical condition in order to carry out their role and responsibilities to the highest level of excellence. The unlawful manufacture, distribution, possession or use of a controlled substance on COS premises or while conducting COS business at another location is prohibited.  Failure to adhere to this policy could result in immediate termination. 
+In compliance with the Drug-Free Workplace Act, the unlawful manufacture, distribution, possession or use of a controlled substance on COS premises or while conducting COS business at another location is prohibited.  COS team members are required to:
+
+-be in appropriate mental and physical condition in order to carry out their role and responsibilities to the highest level of excellence
+
+-notify COS within 5 calendar days, if he or she is convicted of a criminal drug violation in the workplace 
+
+Failure to adhere to this policy could result in immediate termination. 
 
 Alcohol may be included in COS special events, but is not permitted during ordinary working circumstances.
 
