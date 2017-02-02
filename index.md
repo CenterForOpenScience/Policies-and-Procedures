@@ -286,7 +286,7 @@ Controlled substances, alcohol, and firearms
 
 Controlled substances, and firearms are prohibited on COS premises.  
 
-In compliance with the Drug-Free Workplace Act, the unlawful manufacture, distribution, possession or use of a controlled substance on COS premises or while conducting COS business at another location is prohibited.  COS team members are required to be in appropriate mental and physical condition in order to carry out their role and responsibilities to the highest level of excellence. COS health insurance plans provide coverage for substance abuse recovery needs. Any convictions of criminal drug violations in the workplace must be reported to COS within 5 calendar days. Failure to adhere to this policy could result in immediate termination. 
+In compliance with the Drug-Free Workplace Act, the unlawful manufacture, distribution, possession or use of a controlled substance on COS premises or while conducting COS business at another location is prohibited.  COS team members are required to be in appropriate mental and physical condition in order to carry out their role and responsibilities to the highest level of excellence. COS health insurance plans provide coverage for substance abuse recovery needs. Employees must report any convictions of criminal drug violations in the workplace must be reported in writing to COS Human Resources within 5 calendar days. Violations of this policy could result in immediate termination or mandatory participation in a rehabilitation program. 
 
 Alcohol may be included in COS special events, but is not permitted during ordinary working circumstances.
 
