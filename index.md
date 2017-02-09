@@ -135,7 +135,7 @@ All employees are assigned to one of the following classifications of employment
 
 Exempt Employees: Exempt employees are those whose primary duties consist of “administrative,” “professional,” or “executive” functions. This employee would work on a salaried basis, and would meet the salary and job requirements as set forth by the Fair Labor Standards Act. Such employees are exempt from the minimum wage and overtime provisions of the Fair Labor Standards Act.
 
-Non-exempt Employees: An employee who is not considered to be exempt and who is subject to the minimum wage and overtime provisions of the Fair Labor Standards Act. As a tax-exempt, not for profit organization, COS may elect to require non-exempt employees to take compensatory time off during the workweek in which the overtime occurred in lieu of overtime wages.
+Non-exempt Employees: An employee who is not considered to be exempt and who is subject to the minimum wage and overtime provisions of the Fair Labor Standards Act. 
 
 Students, Trainees, and Volunteers: Students, trainees, and volunteers, when acting on behalf of the COS will be governed by the terms set forth in their employment offer letters. The offer letter will include at a minimum, the role of the individual and compensation arrangements. In all other respects, students, trainees, and volunteers, will be subject to the provisions of this policy manual.
 
