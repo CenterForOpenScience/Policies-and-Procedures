@@ -323,17 +323,17 @@ Grievances
 
 A grievance is a formal expression of dissatisfaction about a work situation by an individual or group. The COS’s grievance procedure is a formal procedure that COS and its staff members will follow to deal with or resolve workplace problems. The policy is: 
 
-_Easy to use:_ The COS's grievance procedure is regularly updated to take into account other best practice models. As a result, the grievance procedure should be clear and easy to use.
+**Easy to use:** The COS's grievance procedure is regularly updated to take into account other best practice models. As a result, the grievance procedure should be clear and easy to use.
 
-_Confidential:_ Only the staff members directly involved in the grievance, or its resolution, have access to information about the grievance. Information will go onto a staff member’s personnel file if a formal action is taken arising from the grievance.
+**Confidential:** Only the staff members directly involved in the grievance, or its resolution, have access to information about the grievance. Information will go onto a staff member’s personnel file if a formal action is taken arising from the grievance.
 
-_Impartial_: All parties have opportunity to communicate their perspective on the situation. No assumptions are made or actions taken until all parties contribute information for consideration. 
+**Impartial**: All parties have opportunity to communicate their perspective on the situation. No assumptions are made or actions taken until all parties contribute information for consideration. 
 
-_Sensitive_: All grievances will be dealt with sensitively and professionally by staff experienced in these matters.
+**Sensitive**: All grievances will be dealt with sensitively and professionally by staff experienced in these matters.
 
-_Free of retaliation or victimization_: Staff involved in a grievance shall not victimized by anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in disciplinary action including termination of the perpetrator. 
+**Free of retaliation or victimization**: Staff involved in a grievance shall not victimized by anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in disciplinary action including termination of the perpetrator. 
 
-_Timely_: Grievances are addressed promptly. 
+**Timely**: Grievances are addressed promptly. 
 
 Employee Grievance Procedure
 ------------------
