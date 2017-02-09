@@ -109,7 +109,7 @@ General Criteria for Hiring Selection
 
 **Disqualified:** Any applicant who has membership in a party or organization with the objectives of overthrowing the United States Government will be disqualified.
 
-**Offer by Letter:**  Once selection has been made, an offer of employment will be made by letter and digitally distributed.  Such letter will contain position/title, annual or hourly salary, starting date, and any other specific items agreed upon by OS. 
+**Offer by Letter:**  Once selection has been made, an offer of employment will be made by letter and digitally distributed.  Such letter will contain position/title, annual or hourly salary, starting date, and any other specific items agreed upon by COS. 
 
 **Acceptance by Letter:**  Acceptance of employment will be indicated by digitally signing offer letter and returning it to Human Resources.
 
@@ -142,12 +142,12 @@ Students, Trainees, and Volunteers: Students, trainees, and volunteers, when act
 Paid Time Off (PTO)
 ------------------
 
-At the beginning of each year, all full-time COS employees receive fifteen (15) days of “Paid Time Off” (PTO). Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with a supervisor and indicate the time off on their COS Google calendar. All staff who cannot work due to an illness or emergency should notify the Human Resources Assistant and their team lead.  Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
+At the beginning of each year, all full-time COS employees receive fifteen (15) days of “Paid Time Off” (PTO). Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with a supervisor and indicate the time off on their COS Google calendar. All staff who cannot work due to an illness or emergency should notify the Human Resources Specialist and their team lead.  Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
 
 New Employee Orientation
 ------------------
 
-Each new employee will be given a general orientation by the Human Resources Assistant. This orientation will include an overview of how the office operates, employee benefits, and any other materials necessary for the individual to begin work at COS.
+Each new employee will be given a general orientation by the Human Resources Specialist. This orientation will include an overview of how the office operates, employee benefits, and any other materials necessary for the individual to begin work at COS.
 
 Personnel Records
 ------------------
@@ -186,7 +186,7 @@ Pay dates for COS staff are on the 15th and the 30/31 of each month (or last bus
 
 If a paycheck is lost or stolen, it is the individual’s responsibility to report it immediately to Human Resources, and submit an email statement certifying that the pay check was lost or stolen. Following that, a new direct deposit check will be issued. COS aims to direct deposit all paychecks, however, in circumstances when a paper check is required, please notify Human Resources. 
 
-Update direct deposit information in Zenefits and promptly notify the Human Resources Assistant of changes.
+Update direct deposit information in Zenefits and promptly notify the Human Resources Specialist of changes.
 
 Expense Reimbursement
 ------------------
@@ -401,7 +401,7 @@ Resignation is a separation from COS initiated by the employee.  Employees, with
 Exit Interview
 ------------------
 
-Any employee terminating employment for any reason will be scheduled for an exit interview with the Human Resources Assistant prior to departure. Information obtained in exit interviews will be reviewed by the executive team to assess improvement of organizational policies and practices.  The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to COS for improving its policies and practices.
+Any employee terminating employment for any reason will be scheduled for an exit interview with the Human Resources Specialist prior to departure. Information obtained in exit interviews will be reviewed by the executive team to assess improvement of organizational policies and practices.  The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to COS for improving its policies and practices.
 
 Policies and Procedures Manual Signature Sheet
 ------------------
