@@ -331,7 +331,7 @@ _Impartial_: All parties have opportunity to communicate their perspective on th
 
 _Sensitive_: All grievances will be dealt with sensitively and professionally by staff experienced in these matters.
 
-_Free of retaliation or victimization_: Staff involved in a grievance shall not be victimized by anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in disciplinary action including termination of the perpetrator. 
+_Free of retaliation or victimization_: Staff involved in a grievance shall victimize anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in disciplinary action including termination of the perpetrator. 
 
 _Timely_: Grievances are addressed promptly. 
 
