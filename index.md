@@ -338,7 +338,7 @@ _Timely_: Grievances are addressed promptly.
 Employee Grievance Procedure
 ------------------
 
-**Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by direct approach to the employee or employees involved, with the HR specialist available to assist and support. 
+**Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by directly approaching the employee or employees involved, with the Human Resources Specialist available to assist and support as needed. 
 
 **Formal stage:** If the matter remains unresolved, employees are to report the incident their manager immediately. The manager will resolve the issue and decide if a formal meeting between the parties is necessary. If the issue remains unresolved after manager intervention, the Human Resources Specialist and Director of Operations will investigate the grievance further.  If any disciplinary action is required, the Hiring and Compensation Committee will make the final decision.  If the case involves the Human Resources Specialist or Director of Operations directly, the investigation will be referred to an external 3rd party who is familiar with COS. 
 
