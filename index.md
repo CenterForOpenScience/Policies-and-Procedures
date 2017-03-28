@@ -321,7 +321,7 @@ The COS designated meeting area in such circumstances is outside in the guest pa
 Grievances
 ------------------
 
-A grievance is a formal expression of dissatisfaction about a work situation by an individual or group. The COS’s grievance procedure is a formal procedure that COS and its staff members will follow to deal with or resolve workplace problems. The policy is: 
+A grievance is a formal written expression of dissatisfaction about a work situation by an individual or group. The COS’s grievance procedure is a formal procedure that COS and its staff members will follow to deal with or resolve workplace problems. The policy is: 
 
 _Easy to use:_ The COS's grievance procedure is regularly updated to take into account other best practice models. As a result, the grievance procedure should be clear and easy to use.
 
@@ -331,16 +331,16 @@ _Impartial_: All parties have opportunity to communicate their perspective on th
 
 _Sensitive_: All grievances will be dealt with sensitively and professionally by staff experienced in these matters.
 
-_Free of retaliation or victimization_: Staff involved in a grievance shall not victimized by anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in disciplinary action including termination of the perpetrator. 
+_Free of retaliation or victimization_: Staff involved in a grievance shall not victimized by anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in disciplinary action from the hiring and compensation committee, with input from your manager and the HR specialist, including termination of the perpetrator. 
 
 _Timely_: Grievances are addressed promptly. 
 
 Employee Grievance Procedure
 ------------------
 
-**Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by direct approach to the employee or employees involved. 
+**Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by direct approach to the employee or employees involved, with the HR specialist available to assist and support. 
 
-**Formal stage:** If the matter remains unresolved, employees are to report the incident to Human Resources immediately. COS management will resolve the issue and decide if a formal meeting between the parties is necessary. This meeting should be held within 10 working days of the grievance. If, after any action to resolve the grievance taken by the directorship, the employee is still dissatisfied, they may file an appeal.
+**Formal stage:** If the matter remains unresolved, employees are to report the incident their manager immediately. The manager will resolve the issue and decide if a formal meeting between the parties is necessary. If the issue remains unresolved after manager intervention, the Human Resources Specialist and Director of Operations will investigate the grievance further.  If any disciplinary action is required, the hiring and compensation committee will make the final decision.  If the case involves the Human Resources Specialist or Director of Operations directly, the investigation will be referred to an external 3rd party who is familiar with COS. 
 
 Romantic Relationships with Co-workers
 ------------------
