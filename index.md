@@ -12,7 +12,6 @@ This manual sets forth the Center for Open Science’s policies and procedures f
 
 Information contacts: 
 Betsy Ferronato, [betsy@cos.io](mailto:betsy@cos.io)
-Andrew Sallans, [andrew@cos.io](mailto:andrew@cos.io)
 
 COS Office Environment
 ------------------
