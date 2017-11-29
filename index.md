@@ -24,7 +24,7 @@ COS will host a variety of community events during normal business hours, in the
 
 The COS kitchen is a shared space for COS staff and visitors. Everyone is responsible for its cleanliness. Each Friday COS staff clean out of the fridge by either taking home their perishable items or throwing them away.
 
-COS is committed to providing a safe and healthy workplace and to promoting the health and wellbeing of its employees and visitors. Some members of the COS staff have smoke and pet allergies. As such, these common allergens should not be present in the COS offices or indoor company sponsored events. We ask that our staff and visitors do not come to work smelling of smoke or bring their pets to work.
+COS is committed to providing a safe and healthy workplace and to promoting the health and wellbeing of its employees and visitors. Some members of the COS staff have smoke and pet allergies. As such, these common allergens should not be present in the COS offices or indoor company sponsored events. We ask that our staff and visitors do not come to work smelling of smoke or bring their pets to work. Under Title 1 of the Americans with Disabilities Act, service animals may be permitted, upon  approval of a special accomodation request.  
 
 Hiring Practices
 ------------------
