@@ -223,11 +223,6 @@ It is the policy of COS to reimburse using the exchange rate provided by Expensi
 
 Individuals should submit copies of credit statements along with original purchase receipt to be reimbursed at actual cost. Corresponding charges should be highlighted on statement. If bank records are not submitted, reimbursement will be processed using Expensify exchange rate.
 
-**Cell Phone Reimbursement**
-
-Although COS encourages all staff to use Google Voice for all COS related phone calls, COS recognizes job responsibilities may include use of personal cell phones. Employees who use their personal cell phones for COS related activities are to notify Human Resources and to supply proof of usage. COS will reimburse staff based upon the following cell phone usage
-rates: Occasional Usage ­ $15/month or Regular Usage ­ $50/month. Employees can request an upgrade with Human Resources should their use exceed the occasional or moderate usage rates.
-
 **Third‐party Reimbursement**
 
 COS employees are often invited to participate in conferences, lectures, or other events as representatives of COS. Reimbursement from hosting agency should be sought when available. COS staff are responsible for reporting all expenses incurred through COS activities followingthe in procedure above. Third­party reimbursements are payable to the Center for Open Science and COS will administer payment to employee. It is the individual’s responsibility to inform themselves on the third party reimbursement policies and procedures and provide this information to billing@cos.io in order the administer billing and payment.
