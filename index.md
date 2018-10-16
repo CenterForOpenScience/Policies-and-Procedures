@@ -141,7 +141,11 @@ Students, Trainees, and Volunteers: Students, trainees, and volunteers, when act
 Paid Time Off (PTO)
 ------------------
 
-At the beginning of each year, all full-time COS employees receive fifteen (15) days of “Paid Time Off” (PTO). Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with a supervisor and indicate the time off on their COS Google calendar. All staff who cannot work due to an illness or emergency should notify the Human Resources Specialist and their team lead.  Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
+Upon hire, all full-time COS employees receive fifteen (15) days of “Paid Time Off” (PTO). Starting on a staff member’s 3-year anniversary, they will receive 18 days of PTO, and starting on a staff member’s 5-year anniversary, they will receive 20 days of PTO. Upon termination, all unused PTO will be forfeited. PTO is not accrued and has no cash value. 
+
+Staff must receive manager approval for PTO and indicate the time off on their COS calendar. When scheduling PTO, staff must “invite” their their manager to the event; if the manager accepts the invitation, this indicates the PTO is approved. If the invitation is declined, the PTO has been declined.  
+
+All staff who cannot work due to an illness or emergency should notify the Human Resources Specialist and their team lead.  Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
 
 New Employee Orientation
 ------------------
