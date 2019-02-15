@@ -16,11 +16,11 @@ Betsy Ferronato, [betsy@cos.io](mailto:betsy@cos.io); Lucy Ofiesh, [lucy@cos.io]
 COS Office Environment
 ------------------
 
-COS operates on the principle of openness. It provides a 24/7 accessible working environment to staff. COS is a highly collaborative environment and there is no assigned seating. Everyone operates out of the main bullpen area. Each workstation in our offices will have everything you will need to get started excluding a laptop (do not remove keyboards, mice, or dongles from workstations when moving seats).
+COS operates on the principle of openness. It provides a 24/7 accessible working environment to staff. COS is a highly collaborative environment and there is no assigned seating. Everyone operates out of the main office area. Each workstation in our offices will have everything you will need to get started excluding a laptop (do not remove keyboards, mice, or dongles from workstations when moving seats).
 
-While there is an emphasis on collaboration, this model also increases the need to be sensitive to noise so that all staff can be productive in the space. Staff are encouraged to retreat to a private office to hold meetings or to have phone and video calls.
+While there is an emphasis on collaboration, this model also increases the need to be sensitive to noise so that all staff can be productive in the space. Staff are encouraged to retreat to a private office to hold meetings or to have phone and video calls. All rooms and phone booths must be reserved via your COS calendar. 
 
-COS will host a variety of community events during normal business hours, in the evenings, and on weekends. During these events, one full-time regular COS staff member must be present at minimum. This staff member is responsible for ensuring responsible use of the space, properly disposing of any trash following the event, and properly closing up.
+COS will host a variety of community events during normal business hours, in the evenings, and on weekends. During these events, one full-time regular COS staff member must be present at minimum. This staff member is responsible for ensuring responsible use of the space, properly disposing of any trash following the event, and properly closing up, including setting the ADT alarm.
 
 The COS kitchen is a shared space for COS staff and visitors. Everyone is responsible for its cleanliness. Each Friday COS staff clean out of the fridge by either taking home their perishable items or throwing them away.
 
@@ -75,7 +75,7 @@ Background checks may include but are not limited to:
 
 For new hires, background checks will be processed at the time a conditional offer of employment is made.  In each case in which a background check will be performed, the individual will be asked to complete and sign a release authorizing Zenefits to conduct the background check.  If the individual fails to sign the release, any offer for employment, and any current employment may be terminated. 
 
-Background check reports will be obtained and reviewed by Human Resources, who may review
+Background check reports will be obtained and reviewed by the Human Resources Specialist, who may review
 the information with the appropriate member of senior staff, the Center for Open Science’s legal
 counsel, or others with a need to know. Background check findings in the following categories will disqualify a candidate from employment:
 
@@ -83,11 +83,20 @@ counsel, or others with a need to know. Background check findings in the followi
 
 - Being listed on the sex offender list
 
-- Being listed on the terror watch list.
+- Being listed on the terror watch list
 
-If an individual is to be denied employment wholly or partly because of information obtained in a background check, the individual will be so informed in advance of any adverse action.  In addition, where required by law and to the extent applicable, the individual will be given (a) a copy of the relevant background check report, (b) a summary of the individual’s legal rights concerning the background check report, and (c) the name, address and phone number of the third-party vendor if the individual has questions about the results of the report or wants to dispute the accuracy of the report.  (Note, however, that the vendor does not make employment decisions and will unable to provide any individual with specific reasons as to why the adverse action was taken.)  
+If an individual is to be denied employment wholly or partly because of information obtained in a background check, the individual will be informed in advance of any adverse action.  In addition, where required by law and to the extent applicable, the individual will be given (a) a copy of the relevant background check report, (b) a summary of the individual’s legal rights concerning the background check report, and (c) the name, address and phone number of the third-party vendor if the individual has questions about the results of the report or wants to dispute the accuracy of the report.  (Note, however, that the vendor does not make employment decisions and will unable to provide any individual with specific reasons as to why the adverse action was taken.)  
 
-Any questions concerning this policy may be directed to Human Resources.
+Any questions concerning this policy may be directed to the Human Resources Specialist.
+
+Foreign Nationals Sponsorship
+------------------
+
+It is the policy of COS that the company may employ, or make employment offers to, foreign nationals only when U.S. citizens or permanent residents of equal training, experience, and competence for the position are unavailable. Such a determination can only be made following a completely documented search and evaluation process. Employment of foreign nationals with be authorized only under the provisions of this policy and only when conditions and visa requirements established by federal law and ensured and documented. Under circumstances may any employee of COS knowingly employ, or contract employment with, an unauthorized alien. 
+
+Any offer of employment to a foreign national under a nonimmigrant program is considered temporary and is subject to the terms and conditions of the specific program’s work authorization. 
+
+Petitions from COS supporting H1-B visa classification will be reserved for individuals who have been offered positions requiring similar credentials. Holders of H1-B visas may be appointed only for the time period permitted under the indivudual’s visa. 
 
 Visiting Staff 
 ------------------
@@ -97,7 +106,7 @@ COS has many collaborators and contributors from around the world and when they 
 Americans with Disabilities Act Considerations
 ------------------
 
-The COS is committed to full compliance with the provisions of the Americans with Disabilities Act. The COS provides a safe and healthy work environment.  Reasonable working accommodations are offered to fulfill organizational performance expectations. In some cases, due to health-related or physical conditions, a staff member may be unable to meet standard expectations in the existing working conditions. The COS will make every reasonable effort to accommodate specific health problems or physical restrictions by fashioning a safe and productive work environment. These situations will be considered on a case-by-case basis.
+COS is committed to full compliance with the provisions of the Americans with Disabilities Act. The COS provides a safe and healthy work environment.  Reasonable working accommodations are offered to fulfill organizational performance expectations. In some cases, due to health-related or physical conditions, a staff member may be unable to meet standard expectations in the existing working conditions. COS will make every reasonable effort to accommodate specific health problems or physical restrictions by fashioning a safe and productive work environment. These situations will be considered on a case-by-case basis.
 
 General Criteria for Hiring Selection
 ------------------
@@ -110,7 +119,7 @@ General Criteria for Hiring Selection
 
 **Offer by Letter:**  Once selection has been made, an offer of employment will be made by letter and digitally distributed.  Such letter will contain position/title, annual or hourly salary, starting date, and any other specific items agreed upon by COS. 
 
-**Acceptance by Letter:**  Acceptance of employment will be indicated by digitally signing offer letter and returning it to Human Resources.
+**Acceptance by Letter:**  Acceptance of employment will be indicated by digitally signing offer letter and returning it to the Human Resources Specialist.
 
 Employment Status
 ------------------
@@ -155,7 +164,7 @@ Each new employee will be given a general orientation by the Human Resources Spe
 Personnel Records
 ------------------
 
-**Contents:**  All personnel will have a confidential personnel record.  Each record will be under the direct supervision of the Director and maintained by Human Resources with documents such as:
+**Contents:**  All personnel will have a confidential personnel record.  Each record will be under the direct supervision of the Director and maintained by the Human Resources Specialist with documents such as:
 
 - Employee resume, CV, and/or completed application material
 - Signed Offer Letter 
@@ -169,16 +178,16 @@ Personnel Records
 
 **Distribution:** Distribution of staff information will occur only in the following circumstances: A) Information required by law for submission of state and federal reports or as required by subpoena,  B) Information needed by insurance companies who contract with COS for the employees’ fringe benefit coverage, and C) The content of an employee’s personnel file may be viewed for business purposes by the Board.  
 
-**Employee Access to Personnel Files:** Employees are permitted to review their own personnel records.  An employee wishing to view his/her records should contact Human Resources to schedule an appointment to do so.
+**Employee Access to Personnel Files:** Employees are permitted to review their own personnel records.  An employee wishing to view his/her records should contact the Human Resources Specialist to schedule an appointment to do so.
 
 Feedback and Review Process
 ------------------
 
-The aim of the COS feedback and review process is to provide staff with guidance to help them achieve their job and career goals, to recognize their achievements, and to facilitate achievement of COS’s strategic and business goals. You will have the opportunity to participate in planning your work and setting your goals in conjunction with your management team on an ongoing basis and formally during your quarterly meetings. The feedback and review process is an opportunity for open, honest communication and feedback about your work and your future at COS.
+The aim of the COS feedback and review process is to provide staff with guidance to help them achieve their job and career goals, to recognize their achievements, and to facilitate achievement of COS’s strategic and business goals. You will have the opportunity to participate in planning your work and setting your goals in conjunction with your management team on an ongoing basis and formally during your annual meetings. The feedback and review process is an opportunity for open, honest communication and feedback about your work and your future at COS.
 
-_Note: the COS feedback and review process is in it’s early stages of implementation and we are continually evaluating the process for improvement._
+This process is a guideline, but may be accelerated or suspended if a situation requires immediate action. Nothing in this policy is designed to modify COS’ employment-at-will policy or discipline procedures. 
 
-A special evaluation may be conducted at the request of the employee or the management team.  Special evaluations are normally conducted as a consequence of a particular incident, either positive or negative.
+Supervisors may, at times, need to provide feedback to employees or take corrective action outside of the performance evaluation process. In general, the steps outlined below are taken to provide this feedback; however, COS does not guarantee that one form of action will necessarily precede another. All steps, written or verbal, will be documented in the employee’s file. Employees have an opportunity to respond in writing, and have a copy of any response placed in their employee file.
 
 Salaries will be reviewed annually and adjusted in line with performance. The salary review process will take into account overall performance and the COS’s budget status and projections. Evaluations will not necessarily lead to a change in compensation.
 
@@ -187,56 +196,25 @@ Pay Schedule (15th and 30/31)
 
 Pay dates for COS staff are on the 15th and the 30/31 of each month (or last business day preceding the 15th or the last day of the month). When a payday falls on a holiday, the pay date will be on the last business day prior to the holiday. COS is required by law to make certain deductions for federal and state withholding taxes and social security. COS employees may voluntarily have deductions made from their paychecks on a pre-tax basis to pay for any dependent(s) health and dental insurance coverage.
 
-If a paycheck is lost or stolen, it is the individual’s responsibility to report it immediately to Human Resources, and submit an email statement certifying that the pay check was lost or stolen. Following that, a new direct deposit check will be issued. COS aims to direct deposit all paychecks, however, in circumstances when a paper check is required, please notify Human Resources. 
+COS aims to direct deposit all paychecks, however, in circumstances when a paper check is required, please notify the Human Resources Specialist. 
 
 Update direct deposit information in Zenefits and promptly notify the Human Resources Specialist of changes.
 
-Expense Reimbursement
+Travel Policy
 ------------------
 
-COS staff members may pay for pre­authorized expenses while traveling. Pre­authorized expenses include meals, lodging, telephone, internet charges, mileage, and incidental expenses necessary to complete COS job functions. COS will reimburse staff for mileage traveled in their personal vehicle for COS related activities. COS will reimburse mileage based upon the
-standard IRS Mileage Rates.
+It is the policy of Center for Open Science (COS) to reimburse staff for reasonable and necessary expenses incurred in connection with approved travel on behalf of the organization. All COS travel will be booked through the Events and Facilities Coordinator, with the exception of travel for the Executive Director (ED), which will be handled by the Executive Assistant. Any staff member who will be traveling will need to complete a Traveler Profile. 
 
-COS will not reimburse the following: Cash withdrawals, exchanges, or advances; items or services illegal under US federal or VA state law; parking violations, towing, traffic fines, or other legal fees; items that are counter to the mission, budget, or policy of COS or that of our funders.
+Team members seeking reimbursement should incur the lowest reasonable travel expenses and exercise care to avoid impropriety or the appearance of impropriety. Reimbursement must be preapproved and is allowed only when reimbursement has not been, and will not be, received from other sources. If a circumstance arises that is not specifically covered in this travel policy, then the most conservative course of action should be taken.
 
-To receive reimbursement, staff are to submit all paper and digital receipts to Human Resources or billing@cos.io within thirty (30) days of the reimbursable expense. Expense receipts may be submitted in print or digital form and must include the following: transaction date, amount, and vendor name. If a vendor receipt is not available, a copy of credit or bank statement line item along with statement of items purchased will be accepted for purchases under $75. Reimbursable expenses over $1,000 and international flights require pre­approval. All reimbursements and policy exceptions are subject to management’s final approval. Late submissions will not be eligible for reimbursement.
-
-Reimbursable amounts will be included in employee’s paycheck as untaxed income on the following schedule: requests received the 21st-5th of the month will be added to payroll on the 15th. Those received the 6th-20th will be included on the 30/31st.
-
-Approved Expense Documentation
-
-Purchases above this amount without a receipt will be subject to management approval.
-
-Excluded Expenses:
-
-- Cash withdrawals, exchanges, or advances
-
-- Items illegal under US federal or VA state law
-
-- Parking violations, towing, traffic fines, or other legal fees
-
-- Items that are counter to the mission, budget, or policy of COS or that of our funders
-
-**Foreign Transactions**
-
-If not clearly marked on receipt, foreign currency should be manually noted. Currency used must be official currency of local country unless otherwise approved by Admin. Assistant.
-
-**Exchange Rate**
-
-It is the policy of COS to reimburse using the exchange rate provided by Expensify at the time of processing.
-
-Individuals should submit copies of credit statements along with original purchase receipt to be reimbursed at actual cost. Corresponding charges should be highlighted on statement. If bank records are not submitted, reimbursement will be processed using Expensify exchange rate.
-
-**Third‐party Reimbursement**
-
-COS employees are often invited to participate in conferences, lectures, or other events as representatives of COS. Reimbursement from hosting agency should be sought when available. COS staff are responsible for reporting all expenses incurred through COS activities followingthe in procedure above. Third­party reimbursements are payable to the Center for Open Science and COS will administer payment to employee. It is the individual’s responsibility to inform themselves on the third party reimbursement policies and procedures and provide this information to billing@cos.io in order the administer billing and payment.
+Business travel policies are aligned with the organization’s reimbursement rules. All business-related travel paid with COS funds must comply with these organizational policies. See a copy of the full travel policy here:  <https://docs.google.com/document/d/1uRaBtjcNWfri-cFOXOr-4VUKyLzX91_wv7PWR29wXps/edit>. 
 
 Honoraria &amp; Speaking Fees
 ------------------
 
 All COS staff contribute to meeting its mission, but only a subset of staff represent COS in speaking engagements and other public appearances. Honoraria or other payments for engagements on behalf of COS acknowledge the contributions of the whole team. That is, the role of publicly representing COS is just one aspect of the commitment, service, and contribution that makes COS speaking engagements possible and successful.
 
-Full time COS employees who travel, give workshops, or speak on behalf of COS may be offered honoraria or speaking fees from the sponsoring organization. COS compensation is defined as compensation received for a speaking engagement, participation on a panel, consulting or review services, or other activities that are conducted on behalf of COS. Honorarium payments received under these circumstances will be submitted to COS, and then pooled and distributed among the full-time COS staff  at the end of each calendar year. Some institutions will not allow other institutions to receive honoraria on behalf of an individual, and will instead require that individuals personally accept honoraria or other payments. If an individual must receive the sponsorship payments directly, they will likely have personal tax liability. To cover the personal tax liability, they should retain 50% of the payment to cover tax expenses, and contribute the remainder to COS. The total COS speaking fee pool will be distributed equally at the end of the year with prorating based upon the total number of days of employment at COS in that given calendar year. Full-time staff that left COS prior to the end of the calendar year are still eligible for receiving their share of funds.
+Full time COS employees who, give workshops, or speak on behalf of COS may be offered honoraria or speaking fees from the sponsoring organization. COS compensation is defined as compensation received for a speaking engagement, participation on a panel, consulting or review services, or other activities that are conducted on behalf of COS. Honorarium payments received under these circumstances will be submitted to COS. Some institutions will not allow other institutions to receive honoraria on behalf of an individual, and will instead require that individuals personally accept honoraria or other payments. If an individual must receive the sponsorship payments directly, they will likely have personal tax liability. To cover the personal tax liability, they should retain 50% of the payment to cover tax expenses, and contribute the remainder to COS.
 
 If COS employees have doubts about whether more general speaking engagement invitations are subject to this policy, they should submit information about the invitation to the COS Community and Marketing teams for further evaluation. 
 
@@ -244,12 +222,12 @@ Exceptions:
 
 * This policy does not apply to interns or guests
 * Speaking engagements or other consulting payments for work done that is not related to COS, open science, or open source or is not done on behalf of COS is not subject to this policy
-* This policy may not anticipate all possible scenarios for assessing the types and occasions for receiving payment.  When there is any uncertainty about applicability of the rule, COS staff should introduce the scenario to the Accounting Manager to discuss, resolve, and refine the policy accordingly
+* This policy may not anticipate all possible scenarios for assessing the types and occasions for receiving payment.  When there is any uncertainty about applicability of the rule, COS staff should present the scenario to the Controller to discuss, resolve, and refine the policy accordingly
 
 Use of Email &amp; Personal Computer Equipment
 ------------------
 
-All full-time regular and full-time temporary staff will receive a COS email address. Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property. If your COS technology needs are not being met, please discuss them with Human Resources.
+All full-time regular and full-time temporary staff will receive a COS email address. Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property. If your COS technology needs are not being met, please discuss them with the Human Resources Specialist.
 
 COS Emails and Files Upon Departure
 ------------------
@@ -283,9 +261,13 @@ Controlled substances, alcohol, and firearms
 
 Controlled substances, and firearms are prohibited on COS premises.  
 
-In compliance with the Drug-Free Workplace Act, the unlawful manufacture, distribution, possession or use of a controlled substance on COS premises or while conducting COS business at another location is prohibited.  COS team members are required to be in appropriate mental and physical condition in order to carry out their role and responsibilities to the highest level of excellence. COS health insurance plans provide coverage for substance abuse recovery needs. Employees must report any convictions of criminal drug violations in the workplace in writing to COS Human Resources within 5 calendar days. Violations of this policy could result in immediate termination or mandatory participation in a rehabilitation program. 
+In compliance with the Drug-Free Workplace Act, the unlawful manufacture, distribution, possession or use of a controlled substance on COS premises or while conducting COS business at another location is prohibited.  
 
-Alcohol may be included in COS special events, but is not permitted during ordinary working circumstances.
+COS team members are required to be in appropriate mental and physical condition in order to carry out their role and responsibilities to the highest level of excellence. If there is reasonable suspicion an employee has violated this policy, they may be sent home without pay, put on probation, or terminated. These terms are subject to change at any time, in any circumstance, for any reason, deemed necessary to ensure a safe work environment. Alcohol may be included in COS special events, but is not permitted during ordinary working circumstances.
+
+Additionally, employees must report any convictions of criminal drug violations in the workplace in writing to COS Human Resources within 5 calendar days. 
+
+COS health insurance plans provide coverage for substance abuse recovery needs.
 
 Kitchen and Trash Policy
 ------------------
@@ -294,9 +276,9 @@ Unmarked items in the refrigerator will be thrown away after three days if they 
 
 Do not leave dirty dishes in the sink. If the dishwasher contains dirty dishes, put your dirty dish in the washer. If the dishwasher is running, place your rinsed dish in the sink or to the side of the sink. If the dishes in the dishwasher are clean, empty the dishwasher.
 
-Use the disposal in the kitchen sink for all disposal safe food items; under the cabinet on the right. We have 3 undercounter, pull out, trash receptacles in the kitchen as well as smaller trash cans at desk stations. Do not dispose of food in the small trash cans.
+Use the disposal in the kitchen sink for all disposal safe food items. We have 3 undercounter, pull out, trash receptacles in the kitchen as well as smaller trash cans at desk stations. Do not dispose of food in the small trash cans.
 
-There is overflow trash in the storage room. Use this trash can for large boxes and when the other trash cans are filled to maximum capacity. Trash is single-source, so we don’t sort recycling - they do. Make sure that minimal food items go into the trash and to remove the coffee filters from the k-cups.
+There is overflow trash in the storage room. Use this trash can for large boxes and when the other trash cans are filled to maximum capacity. Trash is single-source, so we don’t sort recycling - they do. Make sure that minimal food items go into the trash.
 
 Emergency Procedures
 ------------------
@@ -337,12 +319,12 @@ Employee Grievance Procedure
 
 **Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by directly approaching the employee or employees involved, with the Human Resources Specialist available to assist and support as needed. 
 
-**Formal stage:** If the matter remains unresolved, employees are to report the incident their manager immediately. The manager will resolve the issue and decide if a formal meeting between the parties is necessary. If the issue remains unresolved after manager intervention, the Human Resources Specialist and Director of Operations will investigate the grievance further.  If any disciplinary action is required, the Hiring and Compensation Committee will make the final decision.  If the case involves the Human Resources Specialist or Director of Operations directly, the investigation will be referred to an external 3rd party who is familiar with COS. 
+**Formal stage:** If the matter remains unresolved, employees are to report the incident their manager immediately. The manager will resolve the issue and decide if a formal meeting between the parties is necessary. If the issue remains unresolved after manager intervention, the Human Resources Specialist and Chief Operating Officer will investigate the grievance further.  If any disciplinary action is required, the executive team will make the final decision.  If the case involves the Human Resources Specialist or Chief Operating Officer directly, the investigation will be referred to an external 3rd party. 
 
 Romantic Relationships with Co-workers
 ------------------
 
-COS does not prohibit romantic relationships between employees,  however, interactions while at work and attending work functions should be professional. 
+COS does not prohibit romantic relationships between employees, however, any manager or team lead who is in a romantic relationship with an employee on their team, must disclose the relationship using the relationship disclosure form. Interactions while at work and attending work functions should remain professional. 
 
 Harassment and Unfair Treatment
 ------------------
@@ -357,7 +339,7 @@ Sexual harassment is defined as a form of sex discrimination, consisting of unwa
 
 Other discriminatory harassment is defined as verbal or physical conduct that denigrates or shows hostility or aversion toward an individual because of his/her age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability.
 
-Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, to Human Resources.  A confidential investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
+Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, to the Human Resources Specialist.  A confidential investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
 
 Dismissal Without Cause (At-Will)
 ------------------
@@ -369,10 +351,10 @@ Involuntary Separation
 
 Separation is any action that ends the employee-employer relationship between an individual and the COS. Involuntary separation may be initiated when disciplinary action does not produce required workplace behavior. Disciplinary action may be initiated in response to performance of duties and personal misconduct. The directorship will be responsible for initiation of disciplinary action in consultation with the employee’s immediate supervisor. The procedures for disciplinary action are the following:
 
-**Performance of Duties:**  These include violation of the personnel policies or violation of an employee's position requirements.  Specific examples include inefficiency or incompetence in performance of duties, tardiness, absenteeism, improper use of property or equipment, failure to maintain professional interpersonal relationships, and abusive or obscene language.  These examples are not exhaustive of the category.
+**Performance of Duties:**  These include violation of the personnel policies or violation of an employee's position requirements.  Specific examples include inefficiency or incompetence in performance of duties, tardiness, absenteeism, improper use of property or equipment, failure to maintain professional interpersonal relationships, and abusive or obscene language.  These examples are not exhaustive of the category. COS is an at will employer and does not have to follow these three steps if not deemed necessary. 
 
 1. **Warning:**   The supervisor shall advise the employee of the specific infraction or breach of duty and the date of the incident. The employee has the opportunity to explain the reason for the conduct. Human Resources will prepare a memorandum for the personnel file documenting the infraction and employee’s response. The directorship shall monitor progress and review with the employee. Progress and review will be documented in the employee’s personnel file.
-1. **Probation:**  Repetition of an infraction may result in probation. Repeated incidents will be documented as described in step one. Probation shall be for at least 90 days.  During this period, a review process will determine if the required corrective actions are implemented and effective. No salary increases or bonuses will be given while an employee is on probation.
+1. **Probation:**  Repetition of an infraction may result in probation. Repeated incidents will be documented as described in step one. Probation shall be for at least 3 weeks.  During this period, a review process will determine if the required corrective actions are implemented and effective. No salary increases or bonuses will be given while an employee is on probation.
 1. **Termination:** Continued repetition by an employee, of an infraction which has been specified in a written warning, will result in the termination of the employee.  This is the final disciplinary step for infractions under the performance of duties category.
 
 **Personal Misconduct:** Disciplinary action under this category results from employee misconduct that is contrary to the best interests of the COS and is more serious than performance of duty infractions. Specific examples of serious personal misconduct actions include being convicted of a felony, misusing funds, fighting or attempting bodily injury to another COS staff member or visitor, using abusive or threatening language, sexual harassment, divulging confidential information, theft or dishonesty, intoxication or possession of illegal substances, possession of weapons on COS premises,  soliciting tips from clients, and falsifying documents.  These examples are not exhaustive of the category. Any employee may be terminated immediately for a serious offense.  The following process applies:
@@ -398,16 +380,4 @@ Resignation is a separation from COS initiated by the employee.  Employees, with
 Exit Interview
 ------------------
 
-Any employee terminating employment for any reason will be scheduled for an exit interview with the Human Resources Specialist prior to departure. Information obtained in exit interviews will be reviewed by the executive team to assess improvement of organizational policies and practices.  The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to COS for improving its policies and practices.
-
-Policies and Procedures Manual Signature Sheet
-------------------
-
-This Manual in conjunction with your Offer Letter and Employee Manual forms the Terms and Conditions of your employment with the Center for Open Science.  
-
-Employee Name (Printed): 
-
-Signed: 
-
-Dated: 
-
+Any employee terminating employment for any reason will be scheduled for an exit interview with the Human Resources Specialist prior to departure. Information obtained in exit interviews will be reviewed by their manager, the executive director and the chief operating officer to assess improvement of organizational policies and practices. The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to COS for improving its policies and practices.
