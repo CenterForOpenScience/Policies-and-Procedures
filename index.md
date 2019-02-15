@@ -324,7 +324,7 @@ Employee Grievance Procedure
 Romantic Relationships with Co-workers
 ------------------
 
-COS does not prohibit romantic relationships between employees, however, any manager or team lead who is in a romantic relationship with an employee on their team, must disclose the relationship using the relationship disclosure form. Interactions while at work and attending work functions should remain professional. 
+COS does not prohibit romantic relationships between employees, however, any manager or team lead who is in a romantic relationship with an employee on their team, must disclose the relationship using the relationship disclosure form. <https://docs.google.com/document/d/1MDwGqySp6SPCuhhrU4CGN6RagS2uuH-nVHetiWvHKJY/edit>. Interactions while at work and attending work functions should remain professional. 
 
 Harassment and Unfair Treatment
 ------------------
