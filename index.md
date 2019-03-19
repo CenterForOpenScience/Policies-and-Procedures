@@ -45,6 +45,11 @@ COS employs persons qualified for each position by virtue of job-related standar
 
 COS is committed to creating and maintaining a work climate that is free from discrimination and harassment.
 
+COS Employee Referral Program
+------------------
+
+The Center for Open Science seeks to build a qualified, inclusive, high performing, dedicated staff to help us fulfill our mission to increase openness, integrity, and reproducibility of research. An employee referral program asks existing employees to recommend candidates for open positions. If we hire someone you referred, you will receive a bonus. These incentive programs allow us to augment our existing recruitment channels, and find strong candidates. Plus, employees that are referred to a position are more likely to stay longer with a company than those who find the job in a posting. See a copy of the full policy [here](https://docs.google.com/document/d/126V1QqQPavJmr1e28yDPiarFYD49VSWfIK8vP-zFLVc/edit).
+
 Legal Interviewing Practices
 ------------------
 
