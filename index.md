@@ -133,7 +133,7 @@ All employees are assigned to an employee status category determined at the time
 
 Full-Time Regular: Employees who are not on a temporary status and who are regularly scheduled to work a full-time (40+) hour week are eligible for the COS benefits package (health and dental insurance, disability insurance, and 401(k) program) and are subject to the terms, conditions, and limitations of each benefit program.
 
-Part-Time Regular: Employees who are regularly scheduled to work 34 or less hours per week. These employees are eligible for a COS benefits package, including health, dental, and 401(k) program.  
+Part-Time Regular: Employees who are regularly scheduled to work 34 or less hours per week. These employees are eligible to participate in the 401(k) program.  
 
 Full-Time Temporary- Employees who are employed by the organization to work 40 hours per week for a fixed amount of time (determined by offer letter).  These employees are only eligible for certain benefits, including occasionally catered meals, the stocked kitchen, and a parking/door pass. 
 
