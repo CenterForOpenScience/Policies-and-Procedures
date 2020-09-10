@@ -80,7 +80,7 @@ Background checks may include but are not limited to:
 
 For new hires, background checks will be processed at the time a conditional offer of employment is made.  In each case in which a background check will be performed, the individual will be asked to complete and sign a release authorizing Zenefits to conduct the background check.  If the individual fails to sign the release, any offer for employment, and any current employment may be terminated. 
 
-Background check reports will be obtained and reviewed by the Human Resources Specialist, who may review
+Background check reports will be obtained and reviewed by Human Resources, who may review
 the information with the appropriate member of senior staff, the Center for Open Science’s legal
 counsel, or others with a need to know. Background check findings in the following categories will disqualify a candidate from employment:
 
@@ -92,7 +92,7 @@ counsel, or others with a need to know. Background check findings in the followi
 
 If an individual is to be denied employment wholly or partly because of information obtained in a background check, the individual will be informed in advance of any adverse action.  In addition, where required by law and to the extent applicable, the individual will be given (a) a copy of the relevant background check report, (b) a summary of the individual’s legal rights concerning the background check report, and (c) the name, address and phone number of the third-party vendor if the individual has questions about the results of the report or wants to dispute the accuracy of the report.  (Note, however, that the vendor does not make employment decisions and will unable to provide any individual with specific reasons as to why the adverse action was taken.)  
 
-Any questions concerning this policy may be directed to the Human Resources Specialist.
+Any questions concerning this policy may be directed to Human Resources.
 
 Foreign Nationals Sponsorship
 ------------------
@@ -124,7 +124,7 @@ General Criteria for Hiring Selection
 
 **Offer by Letter:**  Once selection has been made, an offer of employment will be made by letter and digitally distributed.  Such letter will contain position/title, annual or hourly salary, starting date, and any other specific items agreed upon by COS. 
 
-**Acceptance by Letter:**  Acceptance of employment will be indicated by digitally signing offer letter and returning it to the Human Resources Specialist.
+**Acceptance by Letter:**  Acceptance of employment will be indicated by digitally signing offer letter and returning it to Human Resources.
 
 Employment Status
 ------------------
@@ -159,17 +159,17 @@ Upon hire, all full-time COS employees receive fifteen (15) days of “Paid Time
 
 Staff must receive manager approval for PTO and indicate the time off on their COS calendar. When scheduling PTO, staff must “invite” their their manager to the event; if the manager accepts the invitation, this indicates the PTO is approved. If the invitation is declined, the PTO has been declined.  
 
-All staff who cannot work due to an illness or emergency should notify the Human Resources Specialist and their team lead.  Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
+All staff who cannot work due to an illness or emergency should notify Human Resources and their team lead.  Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS.  Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
 
 New Employee Orientation
 ------------------
 
-Each new employee will be given a general orientation by the Human Resources Specialist. This orientation will include an overview of how the office operates, employee benefits, and any other materials necessary for the individual to begin work at COS.
+Each new employee will be given a general orientation by Human Resources. This orientation will include an overview of how the office operates, employee benefits, and any other materials necessary for the individual to begin work at COS.
 
 Personnel Records
 ------------------
 
-**Contents:**  All personnel will have a confidential personnel record.  Each record will be under the direct supervision of the Director and maintained by the Human Resources Specialist with documents such as:
+**Contents:**  All personnel will have a confidential personnel record.  Each record will be under the direct supervision of the Director and maintained by Human Resources with documents such as:
 
 - Employee resume, CV, and/or completed application material
 - Signed Offer Letter 
@@ -183,7 +183,7 @@ Personnel Records
 
 **Distribution:** Distribution of staff information will occur only in the following circumstances: A) Information required by law for submission of state and federal reports or as required by subpoena,  B) Information needed by insurance companies who contract with COS for the employees’ fringe benefit coverage, and C) The content of an employee’s personnel file may be viewed for business purposes by the Board.  
 
-**Employee Access to Personnel Files:** Employees are permitted to review their own personnel records.  An employee wishing to view his/her records should contact the Human Resources Specialist to schedule an appointment to do so.
+**Employee Access to Personnel Files:** Employees are permitted to review their own personnel records.  An employee wishing to view his/her records should contact Human Resources to schedule an appointment to do so.
 
 Feedback and Review Process
 ------------------
@@ -201,9 +201,9 @@ Pay Schedule (15th and 30/31)
 
 Pay dates for COS staff are on the 15th and the 30/31 of each month (or last business day preceding the 15th or the last day of the month). When a payday falls on a holiday, the pay date will be on the last business day prior to the holiday. COS is required by law to make certain deductions for federal and state withholding taxes and social security. COS employees may voluntarily have deductions made from their paychecks on a pre-tax basis to pay for any dependent(s) health and dental insurance coverage.
 
-COS aims to direct deposit all paychecks, however, in circumstances when a paper check is required, please notify the Human Resources Specialist. 
+COS aims to direct deposit all paychecks, however, in circumstances when a paper check is required, please notify Human Resources. 
 
-Update direct deposit information in Zenefits and promptly notify the Human Resources Specialist of changes.
+Update direct deposit information in Zenefits and promptly notify Human Resources of changes.
 
 Travel Policy
 ------------------
@@ -232,7 +232,7 @@ Exceptions:
 Use of Email &amp; Personal Computer Equipment
 ------------------
 
-All full-time regular and full-time temporary staff will receive a COS email address. Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property. If your COS technology needs are not being met, please discuss them with the Human Resources Specialist.
+All full-time regular and full-time temporary staff will receive a COS email address. Use of personal equipment for COS projects is not encouraged as COS is not liable for covering any damages to personal property. If your COS technology needs are not being met, please discuss them with Human Resources.
 
 COS Emails and Files Upon Departure
 ------------------
@@ -305,7 +305,7 @@ The COS designated meeting area in such circumstances is outside in the guest pa
 Grievances
 ------------------
 
-A grievance is a formal written expression of dissatisfaction about a work situation by an individual or group. The COS’s grievance procedure is a formal procedure that COS and its staff members will follow to deal with or resolve workplace problems. The policy is: 
+A grievance is a formal written or verbal expression of dissatisfaction about a work situation by an individual or group. The COS grievance procedure is a formal procedure that COS and its staff members will follow to deal with or resolve workplace problems. The policy is: 
 
 _Easy to use:_ The COS's grievance procedure is regularly updated to take into account other best practice models. As a result, the grievance procedure should be clear and easy to use.
 
@@ -315,16 +315,18 @@ _Impartial_: All parties have opportunity to communicate their perspective on th
 
 _Sensitive_: All grievances will be dealt with sensitively and professionally by staff experienced in these matters.
 
-_Free of retaliation or victimization_: Staff involved in a grievance shall not victimize anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in a disciplinary action by the Hiring and Compensation Committee, with input from relevant managers and the Human Resources Specialist. The disciplinary action may include termination of the perpetrator. 
+_Free of retaliation or victimization_:Staff involved in a grievance shall not victimize anyone for coming forward with the grievance or for assisting in its resolution. Any victimization or retaliation may result in a disciplinary action by,  Human Resources with input from the relevant manager(s). The disciplinary action may include termination of the transgressor. 
 
 _Timely_: Grievances are addressed promptly. 
 
 Employee Grievance Procedure
 ------------------
 
-**Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by directly approaching the employee or employees involved, with the Human Resources Specialist available to assist and support as needed. 
+**Informal stage:** If an employee has a complaint that involves another COS staff member, they should try to resolve the matter by directly approaching the employee(s) involved, with their manager available to assist and support as needed. 
 
-**Formal stage:** If the matter remains unresolved, employees are to report the incident their manager immediately. The manager will resolve the issue and decide if a formal meeting between the parties is necessary. If the issue remains unresolved after manager intervention, the Human Resources Specialist and Chief Operating Officer will investigate the grievance further.  If any disciplinary action is required, the executive team will make the final decision.  If the case involves the Human Resources Specialist or Chief Operating Officer directly, the investigation will be referred to an external 3rd party. 
+If the complaint involves one’s manager, employees should try to resolve the matter by directly approaching their manager, with Human Resources available to assist and support as needed.
+
+**Formal stage:** If the matter remains unresolved, employees are to report the incident to Human Resources as soon as possible after their initial attempt to resolve ‘informally’ has been unsuccessful. Human Resources will investigate the issue confidentially, and address the concern raised which may include a formal meeting between the parties to agree upon appropriate next steps or other corrective actions. If any disciplinary action is required, Human Resources will determine appropriate next steps, and the Chief Operating Office will make the final decision. If the case involves Human Resources or the Chief Operating Officer directly, employees should raise the concern with the Executive Director who will work to resolve the issue with the assistance of an external third party. 
 
 Romantic Relationships with Co-workers
 ------------------
@@ -344,7 +346,7 @@ Sexual harassment is defined as a form of sex discrimination, consisting of unwa
 
 Other discriminatory harassment is defined as verbal or physical conduct that denigrates or shows hostility or aversion toward an individual because of his/her age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability.
 
-Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, to the Human Resources Specialist.  A confidential investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
+Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately to Human Resources.  A confidential investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
 
 Dismissal Without Cause (At-Will)
 ------------------
@@ -364,9 +366,9 @@ Separation is any action that ends the employee-employer relationship between an
 
 **Personal Misconduct:** Disciplinary action under this category results from employee misconduct that is contrary to the best interests of the COS and is more serious than performance of duty infractions. Specific examples of serious personal misconduct actions include being convicted of a felony, misusing funds, fighting or attempting bodily injury to another COS staff member or visitor, using abusive or threatening language, sexual harassment, divulging confidential information, theft or dishonesty, intoxication or possession of illegal substances, possession of weapons on COS premises,  soliciting tips from clients, and falsifying documents.  These examples are not exhaustive of the category. Any employee may be terminated immediately for a serious offense.  The following process applies:
 
-1. **Suspension:**  Should a serious personal misconduct occur, the employee shall be suspended immediately without pay while the case is investigated.  A memorandum delineating the basis for the suspension shall be placed in the employee's personnel file.
-2. **Investigation:**   The activity that resulted in the suspension will be investigated by the directorship.  All facts and related information will be considered.  A memorandum summarizing the investigation and the decision shall be forwarded to the suspended employee and placed in his or her personnel file within ten (10) working days.
-3. **Dismissal/Reinstatement**: The directorship, based on the outcome of the investigation, shall terminate or reinstate the employee.  If the employee is reinstated, the directorship shall also elect whether to consider this suspension as disciplinary time-off without pay, or to compensate the employee for the period of suspension.
+1. **Suspension:**  Should a serious personal misconduct occur, the employee shall be suspended immediately without pay while the case is investigated. A memorandum delineating the basis for the suspension shall be placed in the employee's personnel file.
+2. **Investigation:**   The activity that resulted in the suspension will be investigated by Human Resources. All facts and related information will be considered.  A memorandum summarizing the investigation and the decision shall be forwarded to the suspended employee and placed in his or her personnel file within ten (10) working days.
+3. **Dismissal/Reinstatement**: Human Resources, based on the outcome of the investigation, shall terminate or reinstate the employee. If the employee is reinstated, Human Resouces shall also elect whether to consider this suspension as disciplinary time-off without pay, or to compensate the employee for the period of suspension.
 
 Reduction in Force
 ------------------
@@ -385,4 +387,4 @@ Resignation is a separation from COS initiated by the employee.  Employees, with
 Exit Interview
 ------------------
 
-Any employee terminating employment for any reason will be scheduled for an exit interview with the Human Resources Specialist prior to departure. Information obtained in exit interviews will be reviewed by their manager, the executive director and the chief operating officer to assess improvement of organizational policies and practices. The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to COS for improving its policies and practices.
+Any employee terminating employment for any reason will be scheduled for an exit interview with Human Resources prior to departure. Information obtained in exit interviews will be reviewed by their manager, the executive director and the chief operating officer to assess improvement of organizational policies and practices. The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to COS for improving its policies and practices.
