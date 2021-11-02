@@ -11,7 +11,7 @@ Introduction
 This manual sets forth the Center for Open Science’s policies and procedures for daily operations. The Center for Open Science (COS) complies with the United States Federal and State of Virginia employment laws and regulations. Details about these can be found on the Virginia Department of Labor and Industry [website](http://www.vec.virginia.gov/employers/Required-Posters-for-Virginia-Employers). A Virginia Labor Law poster is accessible and visible in the COS office. This manual is subject to change to maintain compliance with these laws and regulations. This manual will be reviewed and updated periodically as a means of continuous improvement to the COS’s standard practices and operations. COS maintains full discretion to add to, modify, or delete provisions of this manual at any time. COS staff are advised to retain a bookmark to the manual to check for revisions and to stay up-to-date on COS policies.  
 
 Information contacts: 
-Betsy Ferronato, [betsy@cos.io](mailto:betsy@cos.io); Nikki Bialy, [nbialy@cos.io](mailto:nbialy@cos.io)
+Briana Wade, Senior HR Manager, email: briana.wade@cos.io; Ron Brooks, Director of Finance and Operations email: ron@cos.io
 
 COS Office Environment
 ------------------
@@ -112,6 +112,10 @@ Americans with Disabilities Act Considerations
 ------------------
 
 COS is committed to full compliance with the provisions of the Americans with Disabilities Act. The COS provides a safe and healthy work environment.  Reasonable working accommodations are offered to fulfill organizational performance expectations. In some cases, due to health-related or physical conditions, a staff member may be unable to meet standard expectations in the existing working conditions. COS will make every reasonable effort to accommodate specific health problems or physical restrictions by fashioning a safe and productive work environment. These situations will be considered on a case-by-case basis.
+
+## Religious Accommodations
+
+COS respects the religious beliefs and practices of all employees and will make, on request, an accommodation for such observances when a reasonable accommodation is available that does not create an undue hardship on the company’s business. A copy of the Religious Accommodations Policy can be found [here](https://docs.google.com/document/d/e/2PACX-1vT60-9BZlEbShKQs94BFU7VDBFfxX1JzVUqM6_0VTidp1s2S3F_vs4OpFSdWrDW0t35Ro-YugxQNv_V/pub). 
 
 General Criteria for Hiring Selection
 ------------------
