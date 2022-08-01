@@ -138,7 +138,7 @@ It is the policy of Center for Open Science (COS) to reimburse staff for reasona
 
 Team members seeking reimbursement should incur the lowest reasonable travel expenses and exercise care to avoid impropriety or the appearance of impropriety. Reimbursement must be pre-approved and is allowed only when reimbursement has not been, and will not be, received from other sources. If a circumstance arises that is not specifically covered in this travel policy, then the most conservative course of action should be taken.
 
-Business travel policies are aligned with the organization’s reimbursement rules. All business-related travel paid with COS funds must comply with these organizational policies. See a copy of the full travel policy [here](https://docs.google.com/document/d/1uRaBtjcNWfri-cFOXOr-4VUKyLzX91_wv7PWR29wXps/edit), including expense reimbursements.
+Business travel policies are aligned with the organization’s reimbursement rules. All business-related travel paid with COS funds must comply with these organizational policies. See a copy of the full travel policy [here]([https://docs.google.com/document/d/1qAOhlmmsa34vEP7tsaSryQqN0cIkrxp9IAPxG6Rm72g/edit#heading=h.x37n08y80n7x]), including expense reimbursements.
 
 Honoraria &amp; Speaking Fees
 ------------------
