@@ -84,7 +84,7 @@ COS respects the religious beliefs and practices of all employees and will make,
 
 ## Name & Pronoun Change Process
 
-COS is committed to supporting our staff and our community members holistically. We understand that the language we use to describe ourselves is changing all the time, and we want you to feel confident letting us know if the language you use has shifted. In order to make this process easier, individuals can share this information via a form which can be found [here] (https://docs.google.com/forms/d/e/1FAIpQLSefSnk5Oo0qAOf3K7TovFsysfqtRS_1_sgZV4fFLb2u9t2x0Q/viewform).
+COS is committed to supporting our staff and our community members holistically. We understand that the language we use to describe ourselves is changing all the time, and we want you to feel confident letting us know if the language you use has shifted. In order to make this process easier, individuals can share this information via a form which can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSef7elb-9-WkaXNTlnSQZ9mHkxWjMcYwIvBRTjVoVkj6YpJzQ/viewform?usp=sf_link)
 
 Employment Classification
 ------------------
