@@ -72,13 +72,19 @@ Americans with Disabilities Act Considerations
 
 COS is committed to the fair and equal employment of individuals with disabilities under the ADA. It is COS’s policy to provide reasonable accommodation to qualified individuals with disabilities unless the accommodation would impose an undue hardship on the company. 
 
-In accordance with the ADA, reasonable accommodations will be provided to qualified individuals with disabilities to enable them to perform the essential functions of their jobs or to enjoy the equal benefits and privileges of employment. Any employee with a disability who believes they need a reasonable accommodation to perform the essential functions of their job should contact Human Resources. Disability refers to a physical or mental impairment that substantially limits one or more of the major life activities of an individual. A qualified person with a disability means an individual with a disability who, with or without reasonable accommodation, can perform the essential functions of his or her employment position. If an accommodation is requested, the employee is responsible for providing medical documentation regarding the disability and possible accommodations. All information obtained concerning the medical condition or history of an applicant or employee will be treated as confidential information, maintained in separate medical files, and disclosed only as permitted by law.
+In accordance with the ADA, reasonable accommodations will be provided to qualified individuals with disabilities to enable them to perform the essential functions of their jobs or to enjoy the equal benefits and privileges of employment. Any employee with a disability who believes they need a reasonable accommodation to perform the essential functions of their job should contact Human Resources. Disability refers to a physical or mental impairment that substantially limits one or more of the major life activities of an individual. A qualified person with a disability means an individual with a disability who, with or without reasonable accommodation, can perform the essential functions of their employment position. If an accommodation is requested, the employee is responsible for providing medical documentation regarding the disability and possible accommodations. All information obtained concerning the medical condition or history of an applicant or employee will be treated as confidential information, maintained in separate medical files, and disclosed only as permitted by law.
 
 It is the policy of COS to prohibit harassment or discrimination based on disability or because an employee has requested a reasonable accommodation. COS prohibits retaliation against employees for exercising their rights under the ADA or other applicable civil rights laws. 
+
+A copy of the Accommodations Request Form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSef7elb-9-WkaXNTlnSQZ9mHkxWjMcYwIvBRTjVoVkj6YpJzQ/viewform?usp=sf_link). 
 
 ## Religious Accommodations
 
 COS respects the religious beliefs and practices of all employees and will make, on request, an accommodation for such observances when a reasonable accommodation is available that does not create an undue hardship on the company’s business. A copy of the Religious Accommodations Policy can be found [here](https://docs.google.com/document/d/e/2PACX-1vT60-9BZlEbShKQs94BFU7VDBFfxX1JzVUqM6_0VTidp1s2S3F_vs4OpFSdWrDW0t35Ro-YugxQNv_V/pub). 
+
+## Name & Pronoun Change Process
+
+COS is committed to supporting our staff and our community members holistically. We understand that the language we use to describe ourselves is changing all the time, and we want you to feel confident letting us know if the language you use has shifted. In order to make this process easier, individuals can share this information via a form which can be found [here] (https://docs.google.com/forms/d/e/1FAIpQLSefSnk5Oo0qAOf3K7TovFsysfqtRS_1_sgZV4fFLb2u9t2x0Q/viewform).
 
 Employment Classification
 ------------------
@@ -273,9 +279,11 @@ Sexual harassment is defined as a form of sex discrimination, consisting of unwa
 1. **Nonverbal:** Sexually suggestive objects or pictures, graphic commentaries, suggestive or insulting sounds, leering, whistling, obscene gestures.
 1. **Physical:** Unwanted physical contact, including touching, pinching, brushing against the body, or assault.
 
-Other discriminatory harassment is defined as verbal or physical conduct that denigrates or shows hostility or aversion toward an individual because of his/her age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability.
+Other discriminatory harassment is defined as verbal or physical conduct that denigrates or shows hostility or aversion toward an individual because of their age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability.
 
-Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, either to the Senior Human Resources Manager or the Management Team.  An investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.  
+Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, either to the Senior Human Resources Manager or the Management Team.  An investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
+
+Staff may also utilize the Incident Report form [here](https://docs.google.com/forms/d/e/1FAIpQLSfQiuUsxX8AO_cJDNKIr7FUoh6Ob31AXJj4YXivaql2JX-KdQ/viewform). 
 
 Dismissal Without Cause (At-Will)
 ------------------
@@ -296,7 +304,7 @@ Separation is any action that ends the employee-employer relationship between an
 **Personal Misconduct:** Disciplinary action under this category results from employee misconduct that is contrary to the best interests of the COS and is more serious than performance of duty infractions. Specific examples of serious personal misconduct actions include being convicted of a felony, misusing funds, fighting or attempting bodily injury to another COS staff member or visitor, using abusive or threatening language, sexual harassment, divulging confidential information, theft or dishonesty, intoxication or possession of illegal substances, possession of weapons on COS premises,  soliciting tips from clients, and falsifying documents.  These examples are not exhaustive of the category. Any employee may be terminated immediately for a serious offense.  The following process applies:
 
 1. **Suspension:**  Should a serious personal misconduct occur, the employee shall be suspended immediately without pay while the case is investigated. A memorandum delineating the basis for the suspension shall be placed in the employee's personnel file.
-2. **Investigation:**   The activity that resulted in the suspension will be investigated by Human Resources. All facts and related information will be considered.  A memorandum summarizing the investigation and the decision shall be forwarded to the suspended employee and placed in his or her personnel file within ten (10) working days.
+2. **Investigation:**   The activity that resulted in the suspension will be investigated by Human Resources. All facts and related information will be considered.  A memorandum summarizing the investigation and the decision shall be forwarded to the suspended employee and placed in their personnel file within ten (10) working days.
 3. **Dismissal/Reinstatement**: Human Resources, based on the outcome of the investigation, shall terminate or reinstate the employee. If the employee is reinstated, Human Resouces shall also elect whether to consider this suspension as disciplinary time-off without pay, or to compensate the employee for the period of suspension.
 
 Reduction in Force
@@ -307,7 +315,7 @@ A reduction in force (RIF) occurs when budgetary constraints, lack of work, chan
 Resignation
 ------------------
 
-Resignation is a separation from COS initiated by the employee.  Employees, with the exception of contract employees, may terminate their employment voluntarily at any time and shall give COS at least two weeks written notice prior to the effective date.  Contracts employees will be required to give sufficient notice, as outlined in their employment agreement.  Employees who resign may be accompanied by an exit interview. Employees are required to work during his or her two-week resignation period. No pre-scheduled vacation or sick leave may be taken during this time. 
+Resignation is a separation from COS initiated by the employee.  Employees, with the exception of contract employees, may terminate their employment voluntarily at any time and shall give COS at least two weeks written notice prior to the effective date.  Contracts employees will be required to give sufficient notice, as outlined in their employment agreement.  Employees who resign may be accompanied by an exit interview. Employees are required to work during their two-week resignation period. No pre-scheduled vacation or sick leave may be taken during this time. 
 
 Exit Interview
 ------------------
