@@ -76,7 +76,7 @@ In accordance with the ADA, reasonable accommodations will be provided to qualif
 
 It is the policy of COS to prohibit harassment or discrimination based on disability or because an employee has requested a reasonable accommodation. COS prohibits retaliation against employees for exercising their rights under the ADA or other applicable civil rights laws. 
 
-A copy of the Accommodations Request Form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSef7elb-9-WkaXNTlnSQZ9mHkxWjMcYwIvBRTjVoVkj6YpJzQ/viewform?usp=sf_link). 
+A copy of the Accommodations Request Form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSdqv6y3EYkYvCNoLVZRU6RnSKnqwRtQIDZjPBKLc0ZOmiJwLA/viewform?usp=sharing). 
 
 ## Religious Accommodations
 
@@ -84,7 +84,7 @@ COS respects the religious beliefs and practices of all employees and will make,
 
 ## Name & Pronoun Change Process
 
-COS is committed to supporting our staff and our community members holistically. We understand that the language we use to describe ourselves is changing all the time, and we want you to feel confident letting us know if the language you use has shifted. In order to make this process easier, individuals can share this information via a form which can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSef7elb-9-WkaXNTlnSQZ9mHkxWjMcYwIvBRTjVoVkj6YpJzQ/viewform?usp=sf_link)
+COS is committed to supporting our staff and our community members holistically. We understand that the language we use to describe ourselves is changing all the time, and we want you to feel confident letting us know if the language you use has shifted. In order to make this process easier, individuals can share this information via a form which can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScxO_lHv0OlJ1st70-VvdRrY7PxZB79ESunvGds38AjR-dObg/viewform?usp=sharing)
 
 Employment Classification
 ------------------
@@ -283,7 +283,7 @@ Other discriminatory harassment is defined as verbal or physical conduct that de
 
 Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, either to the Senior Human Resources Manager or the Management Team.  An investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
 
-Staff may also utilize the Incident Report form [here](https://docs.google.com/forms/d/e/1FAIpQLSfQiuUsxX8AO_cJDNKIr7FUoh6Ob31AXJj4YXivaql2JX-KdQ/viewform). 
+Staff may also utilize the Incident Report form [here](https://docs.google.com/forms/d/e/1FAIpQLSffHJr_NS-2BIG1xhyOQzNOXG_gkLIdPkGI6y6V3HAsD5tnKg/viewform?usp=sharing). 
 
 Dismissal Without Cause (At-Will)
 ------------------
