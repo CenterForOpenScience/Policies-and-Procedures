@@ -133,9 +133,9 @@ Pay Schedule (15th and 30th/31st)
 
 Pay dates for COS staff are on the 15th and the 30th/31st of each month (or last business day preceding the 15th or the last day of the month).  When a pay day falls on a holiday, the pay date will be on the last business day prior to the holiday. 
 
-On each payday, employees can access their paycheck showing gross pay, deductions, and net pay, through Workforce on the payroll system. COS withholds federal and state income taxes, social security and medicare taxes, and amounts stated in garnishment and child support orders as required by applicable law. Employees may elect to have additional voluntary deductions taken from their wages, such as for employee-paid benefits. To make changes to your voluntary deductions contact Human Resources.
+On each payday, employees can access their paycheck showing gross pay, deductions, and net pay, through Rippling. COS withholds federal and state income taxes, social security and medicare taxes, and amounts stated in garnishment and child support orders as required by applicable law. Employees may elect to have additional voluntary deductions taken from their wages, such as for employee-paid benefits. To make changes to your voluntary deductions contact Human Resources.
 
-COS encourages all employees to have their pay directly deposited into their checking and/or savings account. Direct deposit information must be set up in Zenefits. If you make changes to your direct deposit information please notify Human Resources immediately.
+COS encourages all employees to have their pay directly deposited into their checking and/or savings account. Direct deposit information must be set up in Rippling.
 
 Travel Policy
 ------------------
@@ -320,4 +320,4 @@ Resignation is a separation from COS initiated by the employee.  Employees, with
 Exit Interview
 ------------------
 
-Any employee terminating employment for any reason will be scheduled for an exit interview with the Senior Human Resources Manager prior to departure. All information will be shared with the employee’s leadership team. The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to the COS for improving its policies and practices.
+Any employee terminating employment for any reason will be scheduled for an exit interview with Human Resources prior to departure. All information will be shared with the employee’s leadership team. The purpose of this interview is to establish a reason for the termination, and obtain from the employee information and observations that might be helpful to the COS for improving its policies and practices.
