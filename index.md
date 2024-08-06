@@ -281,7 +281,7 @@ Sexual harassment is defined as a form of sex discrimination, consisting of unwa
 
 Other discriminatory harassment is defined as verbal or physical conduct that denigrates or shows hostility or aversion toward an individual because of their age, race, religion, color, sex, sexual orientation, gender identity, genetic information, veteran status, national origin, ancestry or disability.
 
-Anyone who believes he or she has been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, either to Human Resources or the Management Team.  An investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
+Anyone who believes they have been the subject of sexual harassment, or any other type of discrimination, should report all of the facts and circumstances immediately, either to Human Resources or the Management Team.  An investigation of all complaints will be undertaken immediately.  Any employee who has been found to have harassed another individual will be subject to appropriate sanctions, including immediate termination.
 
 Staff may also utilize the Incident Report form [here](https://docs.google.com/forms/d/e/1FAIpQLSffHJr_NS-2BIG1xhyOQzNOXG_gkLIdPkGI6y6V3HAsD5tnKg/viewform?usp=sharing). 
 
