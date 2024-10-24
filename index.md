@@ -11,7 +11,7 @@ Introduction
 This manual sets forth the Center for Open Science’s policies and procedures for daily operations. The Center for Open Science (COS) complies with the United States Federal and State of Virginia employment laws and regulations. Details about these can be found on the Virginia Department of Labor and Industry [website](http://www.vec.virginia.gov/employers/Required-Posters-for-Virginia-Employers). A Virginia Labor Law poster is accessible and visible in the COS office. This manual is subject to change to maintain compliance with these laws and regulations. This manual will be reviewed and updated periodically as a means of continuous improvement to the COS’s standard practices and operations. COS maintains full discretion to add to, modify, or delete provisions of this manual at any time. COS staff are advised to retain a bookmark to the manual to check for revisions and to stay up-to-date on COS policies.  
 
 Information contacts: 
-Briana Wade, Assistant Director of Human Resources, email: briana.wade@cos.io; Ron Brooks, Senior Director of Finance and Operations email: ron@cos.io
+Briana Wade, Assistant Director of Human Resources, email: briana.wade@cos.io
 
 COS Office Environment
 ------------------
